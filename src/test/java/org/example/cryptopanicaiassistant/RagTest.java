@@ -1,0 +1,18 @@
+package org.example.cryptopanicaiassistant;
+
+import org.example.cryptopanicaiassistant.rag.CryptoAIAssistService;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RagTest {
+
+    @Autowired
+    CryptoAIAssistService cryptoAIAssistService;
+
+    @Test
+    void testSimpleRag() {
+        System.out.println(cryptoAIAssistService.ask("What is going on with bitcoin since last month?"));
+    }
+}

@@ -1,0 +1,2726 @@
+BTC: Bitcoin
+ETH: Ethereum
+USDT: Tether
+USDC: USD Coin
+BNB: BNB
+ADA: Cardano
+XRP: XRP
+BUSD: Binance USD
+SOL: Solana
+DOGE: Dogecoin
+DOT: Polkadot
+WBTC: Wrapped Bitcoin
+TRX: TRON
+DAI: Dai
+AVAX: Avalanche
+SHIB: Shiba Inu
+LEO: UNUS SED LEO
+MATIC: Polygon
+CRO: Cronos
+LTC: Litecoin
+LINK: Chainlink
+FTT: FTX Token
+UNI: Uniswap
+NEAR: NEAR Protocol
+XLM: Stellar
+XMR: Monero
+BCH: Bitcoin Cash
+ETC: Ethereum Classic
+ALGO: Algorand
+ATOM: Cosmos
+FLOW: Flow
+VET: VeChain
+XTZ: Tezos
+MANA: Decentraland
+HBAR: Hedera
+APE: ApeCoin
+SAND: The Sandbox
+KCS: KuCoin Token
+FIL: Filecoin
+ICP: Internet Computer
+EGLD: Elrond
+HNT: Helium
+THETA: Theta Network
+ZEC: Zcash
+AAVE: Aave
+TUSD: TrueUSD
+EOS: EOS
+AXS: Axie Infinity
+MKR: Maker
+HT: Huobi Token
+BSV: Bitcoin SV
+KLAY: Klaytn
+GRT: The Graph
+BTT: BitTorrent-New
+XEC: eCash
+MIOTA: IOTA
+RUNE: THORChain
+USDP: Pax Dollar
+FTM: Fantom
+NEO: Neo
+WAVES: Waves
+USDN: Neutrino USD
+QNT: Quant
+CAKE: PancakeSwap
+STX: Stacks
+CHZ: Chiliz
+USDD: USDD
+LRC: Loopring
+NEXO: Nexo
+OKB: OKB
+ZIL: Zilliqa
+DASH: Dash
+PAXG: PAX Gold
+GMT: STEPN
+BAT: Basic Attention Token
+CRV: Curve DAO Token
+KSM: Kusama
+CELO: Celo
+ENJ: Enjin Coin
+GALA: Gala
+KAVA: Kava
+GNO: Gnosis
+ONE: Harmony
+AMP: Amp
+DCR: Decred
+CVX: Convex Finance
+AR: Arweave
+XDC: XDC Network
+MINA: Mina
+XEM: NEM
+GT: GateToken
+HOT: Holo
+FEI: Fei USD
+1INCH: 1inch Network
+QTUM: Qtum
+COMP: Compound
+OMG: OMG Network
+BTG: Bitcoin Gold
+ICX: ICON
+KDA: Kadena
+GLMR: Moonbeam
+BORA: BORA
+ZRX: 0x
+ROSE: Oasis Network
+KNC: Kyber Network Crystal v2
+TFUEL: Theta Fuel
+IOTX: IoTeX
+LDO: Lido DAO
+XYM: Symbol
+BNT: Bancor
+ANKR: Ankr
+IOST: IOST
+AUDIO: Audius
+JST: JUST
+LPT: Livepeer
+SNX: Synthetix
+GLM: Golem
+RVN: Ravencoin
+SC: Siacoin
+YFI: yearn.finance
+CHSB: SwissBorg
+SRM: Serum
+GUSD: Gemini Dollar
+SXP: SXP
+ONT: Ontology
+NFT: APENFT
+WAXP: WAX
+SKL: SKALE Network
+ZEN: Horizen
+ELON: Dogelon Mars
+ENS: Ethereum Name Service
+HIVE: Hive
+POLY: Polymath
+PLA: PlayDapp
+VGX: Voyager Token
+IMX: Immutable X
+STORJ: Storj
+SCRT: Secret
+MXC: MXC
+BTRST: Braintrust
+RENBTC: renBTC
+UMA: UMA
+KEEP: Keep Network
+SUSHI: SushiSwap
+DGB: DigiByte
+WOO: WOO Network
+ILV: Illuvium
+RNDR: Render Token
+TWT: Trust Wallet Token
+LSK: Lisk
+CSPR: Casper
+OCEAN: Ocean Protocol
+RLY: Rally
+SYS: Syscoin
+MX: MX TOKEN
+ACA: Acala Token
+CEL: Celsius
+NU: NuCypher
+XDB: DigitalBits
+XNO: Nano
+FLUX: Flux
+ORBS: Orbs
+REN: Ren
+CFX: Conflux
+WIN: WINkLink
+COTI: COTI
+CKB: Nervos Network
+XPRT: Persistence
+VLX: Velas
+ONG: Ontology Gas
+DAO: DAO Maker
+CEEK: CEEK VR
+POWR: Powerledger
+SNT: Status
+CHR: Chromia
+CTSI: Cartesi
+PUNDIX: Pundi X (New)
+C98: Coin98
+EPS: Ellipsis
+RSR: Reserve Rights
+ARDR: Ardor
+DENT: Dent
+CELR: Celer Network
+CVC: Civic
+XCH: Chia
+REQ: Request
+MTL: Metal
+TEL: Telcoin
+WXT: Wirex Token
+FET: Fetch.ai
+XYO: XYO
+TRAC: OriginTrail
+UOS: Ultra
+USTC: TerraClassicUSD
+INJ: Injective
+SPELL: Spell Token
+PYR: Vulcan Forged PYR
+DYDX: dYdX
+PEOPLE: ConstitutionDAO
+OGN: Origin Protocol
+HEX: HEX
+WTRX: Wrapped TRON
+XCN: Chain
+stETH: Lido Staked ETH
+YOUC: yOUcash
+BTCB: Bitcoin BEP2
+TON: Toncoin
+FRAX: Frax
+WBNB: Wrapped BNB
+BTTOLD: BitTorrent
+HBTC: Huobi BTC
+DFI: DeFiChain
+LUSD: Liquity USD
+SAFE: Safe
+FRTS: Fruits
+XAUT: Tether Gold
+LUNC: Terra Classic
+T: Threshold
+TTT: The Transfer Token
+NXM: NXM
+WEMIX: WEMIX
+CCXX: Counos X
+HUSD: HUSD
+BIT: BitDAO
+LN: LINK
+OSMO: Osmosis
+BNX: BinaryX
+EVER: Everscale
+ASTR: Astar
+TITAN: TitanSwap
+BEST: Bitpanda Ecosystem Token
+HUM: Humanscape
+CBG: Chainbing
+MCT: Metacraft
+RPL: Rocket Pool
+KOK: KOK
+MVL: MVL
+MED: MediBloc
+VVS: VVS Finance
+PLTC: PlatonCoin
+RACA: RadioCaca
+MOB: MobileCoin
+WVLX: Wrapped Velas
+GAL: Project Galaxy
+LOOKS: LooksRare
+EURS: STASIS EURO
+SURE: inSure DeFi
+MPL: Maple
+ARRR: Pirate Chain
+AVINOC: AVINOC
+XSGD: XSGD
+XCAD: XCAD Network
+BSW: Biswap
+1ECO: 1eco
+SOLO: Sologenic
+USDX: USDX [Kava]
+DESO: Decentralized Social
+TRIBE: Tribe
+STEEM: Steem
+FX: Function X
+vUSDC: Venus USDC
+SUN: Sun (New)
+REP: Augur
+FXS: Frax Share
+DIVI: Divi
+DAG: Constellation
+METIS: MetisDAO
+RAY: Raydium
+FUN: FUNToken
+CTC: Creditcoin
+EWT: Energy Web Token
+BICO: Biconomy
+STMX: StormX
+MOVR: Moonriver
+HXRO: Hxro
+ELF: aelf
+NEST: NEST Protocol
+RBTC: RSK Smart Bitcoin
+ASD: ASD
+ABBC: ABBC Coin
+WRX: WazirX
+ANY: Anyswap
+LOCUS: Locus Chain
+DEP: DEAPcoin
+MAID: MaidSafeCoin
+BTCST: Bitcoin Standard Hashrate Token
+TLM: Alien Worlds
+OXT: Orchid
+MDX: Mdex
+REV: Revain
+STRAX: Stratis
+DAR: Mines of Dalarnia
+SUSD: sUSD
+DAWN: Dawn Protocol
+ALICE: MyNeighborAlice
+QKC: QuarkChain
+VTHO: VeThor Token
+META: Metadium
+UTK: Utrust
+STRK: Strike
+REEF: Reef
+AMA: Mrweb Finance
+ARK: Ark
+PERP: Perpetual Protocol
+UQC: Uquid Coin
+HEDG: HedgeTrade
+FWT: Freeway Token
+RKN: Rakon
+LQTY: Liquity
+STPT: Standard Tokenization Protocol
+ERG: Ergo
+SSX: SOMESING
+SUPER: SuperFarm
+JOE: JOE
+XWC: WhiteCoin
+RGT: Rari Governance Token
+WMT: World Mobile Token
+BFC: Bifrost (BFC)
+RIF: RSK Infrastructure Framework
+AURORA: Aurora
+GHST: Aavegotchi
+MBL: MovieBloc
+CFG: Centrifuge
+LYXe: LUKSO
+XVG: Verge
+PRO: Propy
+ALPHA: Alpha Venture DAO
+HYN: Hyperion
+ANT: Aragon
+RLC: iExec RLC
+HOO: Hoo Token
+LOOM: Loom Network
+DERO: Dero
+SSV: ssv.network
+PROM: Prometeus
+SNL: Sport and Leisure
+NKN: NKN
+TLOS: Telos
+BRG: Bridge Oracle
+VERI: Veritaseum
+NMR: Numeraire
+ORC: Orbit Chain
+CTK: Shentu
+ACH: Alchemy Pay
+RAD: Radicle
+MBOX: MOBOX
+OUSD: Origin Dollar
+KLV: Klever
+AGIX: SingularityNET
+BOBA: Boba Network
+ZEON: ZEON
+BETA: Beta Finance
+GTN: GlitzKoin
+BADGER: Badger DAO
+HI: HI
+MV: GensoKishi Metaverse
+BAKE: BakeryToken
+HERO: Metahero
+ADS: Adshares
+YGG: Yield Guild Games
+AMPL: Ampleforth
+DKA: dKargo
+XVS: Venus
+CORE: cVault.finance
+TOMO: TomoChain
+IQ: Everipedia
+BEL: Bella Protocol
+ETN: Electroneum
+CUSD: Celo Dollar
+HUNT: HUNT
+ZB: ZB Token
+BAND: Band Protocol
+DUSK: Dusk Network
+KAI: KardiaChain
+EXRD: e-Radix
+TT: ThunderCore
+JASMY: JasmyCoin
+AERGO: Aergo
+vBUSD: Venus BUSD
+SAFEMOON: SafeMoon
+MLN: Enzyme
+LCX: LCX
+VAI: Vai
+SPS: Splintershards
+DMCH: Darma Cash
+ALEPH: Aleph.im
+COCOS: Cocos-BCX
+BAL: Balancer
+ONUS: ONUS
+MNGO: Mango
+CENNZ: CENNZnet
+MASK: Mask Network
+H2O: H2O DAO
+WOZX: Efforce
+XPR: Proton
+API3: API3
+POLS: Polkastarter
+CRTS: Cratos
+NSBT: Neutrino Token
+MFT: Hifi Finance
+KAS: Kaspa
+PEPE: Pepe
+APT: Aptos
+MNT: Mantle
+ARB: Arbitrum
+SUI: Sui
+OP: Optimism
+FDUSD: First Digital USD
+TAO: Bittensor
+NOT: Notcoin
+BONK: Bonk
+WIF: dogwifhat
+BGB: Bitget Token
+FLOKI: FLOKI
+ONDO: Ondo
+TIA: Celestia
+BRETT: Brett (Based)
+PYTH: Pyth Network
+JUP: Jupiter
+SEI: Sei
+OM: MANTRA
+FLR: Flare
+AKT: Akash Network
+BEAM: Beam
+ENA: Ethena
+ORDI: ORDI
+RON: Ronin
+MOG: Mog Coin
+USDe: Ethena USDe
+PI: Pi
+HYPE: Hyperliquid
+POL: POL (prev. MATIC)
+TRUMP: OFFICIAL TRUMP
+RENDER: Render
+DEXE: DeXe
+S: Sonic (prev. FTM)
+IP: Story
+FORM: Four
+WLD: Worldcoin
+MOVE: Movement
+PYUSD: PayPal USD
+KAIA: Kaia
+IOTA: IOTA
+JTO: Jito
+BERA: Berachain
+FARTCOIN: Fartcoin
+SPX: SPX6900
+PENDLE: Pendle
+GRASS: Grass
+W: Wormhole
+LAYER: Solayer
+VIRTUAL: Virtuals Protocol
+MELANIA: Official Melania Meme
+CHEEMS: Cheems (cheems.pet)
+ZRO: LayerZero
+AXL: Axelar
+PENGU: Pudgy Penguins
+ZKJ: Polyhedra Network
+AERO: Aerodrome Finance
+SFP: SafePal
+MORPHO: Morpho
+AIOZ: AIOZ Network
+ATH: Aethir
+KAITO: KAITO
+BLUR: Blur
+MEW: cat in a dogs world
+ZK: ZKsync
+EIGEN: EigenLayer
+BabyDoge: Baby Doge Coin
+ZETA: ZetaChain
+ID: SPACE ID
+MOCA: Moca Network
+DEEP: DeepBook Protocol
+VANA: Vana
+HMSTR: Hamster Kombat
+UXLINK: UXLINK
+POPCAT: Popcat (SOL)
+FTN: Fasttoken
+ZBU: Zeebu
+USD0: Usual USD
+ULTIMA: Ultima
+WOULD: would
+AB: AB
+WAL: Walrus
+FLZ: Fellaz
+OHM: Olympus v2
+BDX: Beldex
+CHEEL: Cheelee
+USDY: Ondo US Dollar Yield
+WHITE: WhiteRock
+UPC: UPCX
+RLUSD: Ripple USD
+BWB: Bitget Wallet Token
+PLUME: Plume
+DHN: Dohrnii
+USDG: Global Dollar
+DEUSD: Elixir deUSD
+SAROS: Saros
+BORG: SwissBorg
+EURC: EURC
+KOGE: 48 Club Token
+SNEK: Snek
+SOS: Solana Swap
+GPRO: GoldPro Token
+CHEX: Chintai
+USDF: Astherus USDF
+RLB: Rollbit Coin
+PNUT: Peanut the Squirrel
+GOMINING: GoМining
+DRIFT: Drift
+GAS: Gas
+AI16Z: ai16z
+VENOM: Venom
+ETHW: EthereumPoW
+MPLX: Metaplex
+ORBR: Orbler
+GIGA: Gigachad
+HONEY: Hivemapper
+GMX: GMX
+G: Gravity
+GOHOME: GOHOME
+DOG: Dog (Bitcoin)
+DSYNC: Destra Network
+PRIME: Echelon Prime
+WMTX: World Mobile Token
+MYTH: Mythos
+POLYX: Polymesh
+PXT: Pixer Eternity
+ORCA: Orca
+LUNA: Terra
+FAI: Freysa
+TURBO: Turbo
+QUBIC: Qubic
+ME: Magic Eden
+STIK: Staika
+ETHFI: ether.fi
+RED: RedStone
+AIC: AI Companions
+EUL: Euler
+ARKM: Arkham
+BIGTIME: Big Time
+USUAL: Usual
+TOSHI: Toshi
+ZIG: ZIGChain
+COW: CoW Protocol
+KUB: KUB Coin
+SYRUP: Maple Finance
+USDL: Lift Dollar
+ACT: Acet
+DLC: Diamond Launch
+IO: io.net
+USDB: USDB
+SATS: SATS (Ordinals)
+AUCTION: Bounce Token
+METFI: MetFi
+AIAT: AI Analysis Token
+CPOOL: Clearpool
+SWFTC: SwftCoin
+B3: B3 (Base)
+PAAL: PAAL AI
+VEE: BLOCKv
+PEAQ: peaq
+BIO: Bio Protocol
+AEVO: Aevo
+ACX: Across Protocol
+LON: Tokenlon Network Token
+ZANO: Zano
+ALT: Altlayer
+ANIME: Animecoin
+TST: Test
+USDTb: Ethena Labs (USDTb)
+VELO: Velo
+MANTA: Manta Network
+BDCA: BitDCA
+XRD: Radix
+ZBCN: Zebec Network
+GEOD: GEODNET
+BOME: BOOK OF MEME
+NPC: Non-Playable Coin
+HSK: HashKey Platform Token
+FIDA: Solana Name Service
+BLAST: Blast
+MEME: Memecoin
+BMX: BitMart Token
+NEIRO: Neiro (First Neiro On Ethereum)
+ISLM: ISLM
+PHA: Phala Network
+CARV: CARV
+IAG: IAGON
+AIXBT: aixbt
+MLK: MiL.k
+lisUSD: lisUSD
+DYM: Dymension
+PCI: Paycoin
+POND: Marlin
+AGI: Delysium
+0x0: 0x0.ai
+PIXEL: Pixels
+XAI: Xai
+HEART: Humans.ai
+RARE: SuperRare
+AL: ArchLoot
+GAME: GameBuild
+CETUS: Cetus Protocol
+DOGS: DOGS
+ROAM: Roam
+OMI: ECOMI
+AEUR: Anchored Coins AEUR
+BANANAS31: Banana For Scale
+TRB: Tellor
+ETHDYDX: dYdX (ethDYDX)
+PIN: PinLink
+VVV: Venice Token
+CBK: Cobak Token
+SUPRA: SUPRA
+SLP: Smooth Love Potion
+BONE: Bone ShibaSwap
+CCD: Concordium
+BANANA: Banana Gun
+AVAIL: Avail
+OAS: Oasys
+AOG: smARTOFGIVING
+TAIKO: Taiko
+DF: dForce
+AGLD: Adventure Gold
+ALCH: Alchemist AI
+BAN: Comedian
+ZENT: Zentry
+SHFL: Shuffle
+WILD: Wilder World
+CGPT: ChainGPT
+WONUS: Wrapped ONUS
+BB: BounceBit
+EURCV: EUR CoinVertible
+MERL: Merlin Chain
+ALEO: Aleo
+PEPECOIN: PepeCoin
+ALI: Artificial Liquid Intelligence
+QI: BENQI
+OLAS: Autonolas
+ABT: Arcblock
+ACS: Access Protocol
+SCR: Scroll
+EURI: Eurite
+VCNT: ViciCoin
+TOKAMAK: Tokamak Network
+EDU: Open Campus
+VANRY: Vanar Chain
+COREUM: Coreum
+BGSC: BugsCoin
+TNSR: Tensor
+HPO: Hippocrat
+X: X Empire
+NYM: NYM
+CET: CoinEx Token
+EURt: Tether EURt
+GOAT: Goatseus Maximus
+PONKE: Ponke
+PARTI: Particle Network
+APU: Apu Apustaja
+VICE: VICE Token
+L1: Lamina1
+D: Dar Open Network
+USA: American Coin
+ATM: Atletico Madrid Fan Token
+BTCUSD: Bitcoin USD (BTCFi)
+DEFI: DeFi
+42: 42-coin
+VC: VinuChain
+$1: just buy $1 worth of this coin
+FARM: FARM
+DC: Dogechain
+SB: Snowbank
+FBTC: Function ƒBTC
+OG: OG Fan Token
+00: 00 Token
+MIN: Minswap
+SBR: Strategic Bitcoin Reserve
+IMO: IMO
+SILK: Silk
+MSTR: MSTR2100
+$ELON: Elon
+FOX: ShapeShift FOX
+ADX: AdEx
+BITCOIN: HarryPotterObamaSonic10Inu (ETH)
+MC_: Market Cap
+WHALE: WHALE
+FI: Fideum
+$MYRO: Myro
+$WEN: Wen
+BMEX: BitMEX
+THE: Thena
+DCF: Decentralized Finance
+LBTC: Lombard Staked BTC
+USD1: USD1
+IBIT: InfinityBit Token
+SOFI: RAI Finance
+FT: Fracton Protocol
+BUIDL: BlackRock USD Institutional Digital Liquidity Fund
+STO: StakeStone
+RWA: RWA Inc.
+CLOUD: Cloud
+MEMES: MEMES
+NC: Nodecoin
+SENATE: SENATE
+USDS: USDS
+ALPACA: Alpaca Finance
+DODO: DODO
+FOMO: FOMO
+MOODENG: Moo Deng
+FUD: Fud the Pug
+WHY: WHY
+AVA: AVA
+SG: SocialGood
+LING: Lingose
+ARPA: ARPA
+AHT: AhaToken
+LWA: LumiWave
+E: Etheism
+RAIL: Railgun
+JAM: Geojam
+BLOCK: Blockasset
+TIME: chrono.tech
+OI: O Intelligence Coin
+UST: TerraUSD
+MC: Market Cap
+LEND: Aave [OLD]
+KUJI: Kujira
+USK: USK
+SHR: Share
+TRYB: BiLira
+NYS: node.sys
+USX: dForce USD
+USDA: USDa
+USDM: Mountain Protocol USD
+WETH: WETH
+BAC: Bacon Protocol
+KEY: SelfKey
+ECOIN: Ecoin
+MULTI: Multichain
+ERC20: ERC20
+ETHDOWN: ETHDOWN
+ETHUP: ETHUP
+$GROK: Grok
+MUBARAK: Mubarak
+BANK: Lorenzo Protocol
+GME: GME
+$ROAR: Roaring Kitty
+BINK: Big Dog Fink
+UX: UX Chain
+SAM: Samsunspor Fan Token
+NVT: NerveNetwork
+ADASOL: ADA
+J: Jambo
+OUSG: OUSG
+REX: REVOX
+BULL: Tron Bull
+PDA: PlayDapp
+U: Unidef
+GBYTE: Obyte
+BTS: BitShares
+LIBRA: Libra
+ACRED: Apollo Diversified Credit Securitize Fund
+VINE: Vine
+CHILLGUY: Just a chill guy
+MNDE: Marinade
+SAGA: Saga
+BODEN: Jeo Boden
+HNS: Handshake
+GORK: New XAI Gork
+HOUSE: Housecoin
+SONIC: Sonic SVM
+DOGA: Dogami
+ZAP: Zap
+GAINS: Gains
+LIT: Litentry
+BMT: Bubblemaps
+VIDT: VIDT DAO
+OFT: ONFA
+BNSOL: Binance Staked SOL
+ADP: Adappter
+GDP: GertrudeDataPig
+SIX: SIX Network
+TBTC: tBTC
+HEI: Heima
+MDT: Measurable Data
+TROY: TROY
+SOLV: Solv Protocol
+SHELL: MyShell
+ERN: Ethernity Chain
+JUV: Juventus Fan Token
+TRU: TrueFi
+RDNT: Radiant Capital
+ACM: AC Milan Fan Token
+SLF: Self Chain
+SYN: Synapse
+IDEX: IDEX
+LISTA: Lista DAO
+CTXC: Cortex
+ASR: AS Roma Fan Token
+LAZIO: Lazio Fan Token
+MIM: Magic Internet Money (Ethereum)
+CREAM: Cream
+STRAT: Stratis
+CBBTC: Coinbase Wrapped BTC
+DORA: Dora Factory
+DEAI: Zero1 Labs
+ORDER: Orderly Network
+APY: AgentiPy
+GYEN: GYEN
+LEASH: Doge Killer
+TAKI: Taki Games
+VUSD: Virtual USD
+TRUF: Truflation
+PNP: Penpie
+COQ: Coq Inu
+KIMBO: Kimbo
+CRE: Carry
+WAVAX: Wrapped AVAX
+EDEN: EDEN
+GUN: Gunz
+KNINE: K9 Finance DAO
+TCAT: The Currency Analytics
+NOW: Now Coin
+TREAT: Shiba Inu Treat
+GPU: NodeAI
+EMC: Edge Matrix Computing
+SIS: Symbiosis
+WLEO: LeoFinance Token
+CUB: Cub Finance
+BLEO: BEP20 LEO
+POLYCUB: PolyCub
+PHBD: Polygon HBD
+PHIVE: Polygon Hive
+BHBD: bHBD
+BHIVE: bHIVE
+ALCAZAR: Alcazar (OLD)
+SEED: SEED
+MAGA: MAGA Hat
+METAV: METAVERSE
+KARATE: Karate Combat
+PIP: PiP
+EDGE: Edge
+XCM: Coinmetro
+STC: SaitaChain Coin
+AUSD: AUSD
+QUANT: Gen Z Quant
+MCO: MCO
+WCRO: Wrapped CRO
+SAN: Santiment Network Token
+LBK: LBK
+BABY: Babylon
+INIT: Initia
+SIGN: Sign
+NIL: Nillion
+WCT: WalletConnect Token
+PROMPT: Wayfinder
+AITECH: Solidus Ai Tech
+MAGIC: Treasure
+KTA: Keeta
+ZEREBRO: Zerebro
+GPS: GoPlus Security
+ZORA: Zora
+FIS: Stafi
+EPIC: Epic Chain
+KERNEL: KernelDAO
+KEKIUS: Kekius Maximus
+KOMA: Koma Inu
+MAVIA: Heroes of Mavia
+OBT: Oobit
+BUBB: Bubb
+FLM: Flamingo Finance
+PAX: Paxos Standard
+SPACE: MicrovisionChain
+APL: Apollo
+BROCCOLI: Broccoli
+NAV: Navcoin
+NPM: Neptune Mutual
+HOLY: Holy Trinity
+BITO: ProShares Bitcoin Strategy ETF
+: IERC-20
+AA: ALVA
+MON: MON
+MOR: MorpheusAI
+ZND: ZND Token
+GTC: Gitcoin
+RSS3: RSS3
+ARC: AI Rig Complex
+SNAI: SwarmNode.ai
+PEPU: Pepe Unchained
+SLAP: CatSlap
+LAVA: Lava Network
+ALU: Altura
+SPEC: Spectral
+NEURAL: NEURALAI
+MODE: Mode
+ENQAI: enqAI
+GURU: Guru Network
+IONC: IONChain
+FIRO: Firo
+PROS: Prosper [OLD]
+NULS: NULS
+HARD: Kava Lend
+DIA: DIA
+BENJI: Basenji
+VARA: Vara Network
+PIVX: PIVX
+MWC: MimbleWimbleCoin
+ZKML: zKML
+TORN: Tornado Cash
+BCHA: Bitcoin Cash ABC
+V: Version
+CAG: Change
+RISE: Rise
+SOBTC: Wrapped Bitcoin (Sollet)
+O: Optim Finance
+TRC: MetaTrace
+MGP: Magpie
+BOB: BOB
+LUCE: Luce
+PSTAKE: pSTAKE Finance
+GNON: Numogram
+GUI: Gui Inu
+GPT: QnA3.AI
+SHA: Safe Haven
+SVM: StratoVM
+VRA: Verasity
+CLV: Clover Finance
+REZ: Renzo
+CHESS: Tranchess
+HPT: Huobi Pool Token
+PSG: Paris Saint-Germain Fan Token
+NEON: Neon
+GET: GET Protocol
+CANTO: CANTO
+VEGA: Vega Protocol
+CBETH: Coinbase Wrapped Staked ETH
+XDEFI: XDEFI
+REGEN: Regen
+BRRR: Burrow
+SD: Stader
+VEN: Vechain [Token]
+NANO: Nano
+B3TR: VeBetterDAO
+SCPT: Script Network
+UFC: UFC Fan Token
+SCP: ScPrime
+PBR: PolkaBridge
+STON: STON
+OX: OX Coin
+MOE: MOE
+GHO: GHO
+SWEAT: Sweat Economy
+XION: XION
+COCA: COCA
+LAND: Landshare
+NEXT: Everclear
+PSK: Pool of Stake
+PLY: Plenty PLY
+WBTC.E: WBTC (Plenty Bridge)
+WETH.P: Polygon WETH (Plenty Bridge)
+WETH.E: WETH (Plenty Bridge)
+EGEUR.E: agEUR (Plenty Bridge)
+LINK.E: Chainlink (Plenty Bridge)
+BUSD.E: BUSD (Plenty Bridge)
+USDC.E: USD Coin (Plenty Bridge)
+MATIC.E: MATIC (Plenty Bridge)
+USDT.E: Tether (Plenty Bridge)
+WMATIC.P: WMATIC (Plenty Bridge)
+QUIPU: QuipuSwap Governance
+ESOL: Eversol Staked SOL
+PINKAV: Pinjam.Kava
+WSB: Wall Street Baby
+CRNCHY: Crunchy Network
+CRDAO: Crunchy DAO
+LXT: LEXIT
+LEXI: LEXIT
+NPXS: Pundi X [OLD]
+VSG: Vector Smart Gas
+VR: Victoria VR
+CATI: Catizen
+GODS: Gods Unchained
+BIFI: Beefy
+MMF: MMFinance (Cronos)
+FIRE: Matr1x Fire
+GMEE: GAMEE
+QAI: QuantixAI
+DEGO: Dego Finance
+BORED: BORED
+TOKEN: TokenFi
+WISE: Wise
+ORN: Orion
+CYBER: CYBER
+FRIEND: Friend.tech
+OXY: Oxygen
+SABAI: Sabai Protocol
+NUM: Numbers Protocol
+SLG: SLG.GAMES
+WELL: Moonwell
+XPLA: XPLA
+BCUT: bitsCrunch Token
+IRON: Iron Fish
+ML: Mintlayer
+DCK: DexCheck AI
+FP: Fren Pet
+CQT: Covalent
+FJO: Fjord Foundry
+DIONE: Dione
+DIO: Decimated
+GO: GoChain
+BOP: Bop Cat
+MOON: r/CryptoCurrency Moons
+FORTH: Ampleforth Governance
+QUICK: Quickswap [OLD]
+BELLS: Bellscoin
+LOKA: League of Kingdoms
+LINA: Linear
+WOW: Wownero
+CHMB: Chumbi Valley
+COS: Contentos
+ALPH: Alephium
+STG: Stargate Finance
+DEGEN: Degen (Base)
+OMNI: Omni Network
+BEER: Beercoin
+MMPRO: Market Making Pro
+BC: BCGame Coin
+TUT: Tutorial
+XT: XT.com
+BBB: Beny Bad Boy
+XX: XX Network
+MEMEFI: MemeFi
+MONKY: Wise Monkey
+FLORK: FLORK CTO
+SWARMS: Swarms
+OPUL: Opulous
+NMT: NetMind Token
+ACE: Fusionist
+FLT: Fluence
+DIMO: DIMO
+RAI: Rai Reflex Index
+WXM: WeatherXM
+LYX: LUKSO
+LMWR: LimeWire
+FOXY: Foxy
+STARS: Stargaze
+AIT: AIT Protocol
+RTB: Roundtable
+MP: MerlinSwap
+BMIC: Bitmic
+DETO: Delta Exchange Token
+KET: Ket
+ABI: Abi
+SUNDOG: Sundog
+ERD: ELDORADO TOKEN
+DOP: Data Ownership Protocol
+PHB: Phoenix
+$HYPE: SuperRareBears HYPE
+WEGLD: Wrapped EGLD
+PLATA: Plata Network
+GLTM: Golteum
+ASH: AshSwap
+WBT: WhiteBIT Token
+ESTAR: ESTAR.GAMES
+MEX: xExchange
+BSK-BAA025: Beskar
+BHAT: BHNetwork
+MOBILE: Helium Mobile
+IOT: Helium IOT
+FLOCK: FLOCK
+VITA: VitaDAO
+SEKOIA: sekoia by Virtuals
+ANYONE: ANyONe Protocol
+USC: Orby Network USC Stablecoin
+DEPIN: DEPIN
+KMNO: Kamino
+HBN: Hobonickels
+NOS: Nosana
+SAITO: Saito
+TWJ: TronWeeklyJournal
+OKDOT1: OKX Staked DOT1
+OKDOT2: OKX Staked DOT2
+F: SynFutures
+GRIN: Grin
+ZF: zkSwap Finance
+VSP: Vesper Finance
+WOLF: LandWolf
+VOXEL: Voxies
+SFM: SafeMoon
+$THREE: THREE
+K: Kinto
+CAR: Central African Republic Meme
+888: 888
+REKT: Rekt
+ATMOS: Atmos
+BET: EarnBet
+WEOS: Wrapped EOS
+MPC: Partisia Blockchain
+RAM: Ramses Exchange
+WOJAK: Wojak
+LUCA: LUCA
+STRIKE: Strike
+MOTHER: Mother Iggy
+PAC: PacMoon
+PIKA: Pika Protocol
+QORPO: QORPO WORLD
+BRN: BRN Metaverse
+BRUSH: Paint Swap
+DGD: DigixDAO
+APOLLO: Apollo
+GFI: Goldfinch
+PRCL: Parcl
+PAID: PAID Network
+NST: Ninja Squad Token
+SOURCE: Source
+FNSA: FINSCHIA
+WKLAY: Wrapped KLAY
+JEWEL: DeFi Kingdoms
+DFKTEARS: Gaia's Tears
+CRYSTAL: DeFi Kingdoms Crystal
+WJEWEL: WJEWEL
+XJEWEL: xJEWEL
+DATA: Streamr
+WBTT: Wrapped BTT
+FILDA: Filda
+BCHABC: Bitcoin Cash ABC [IOU]
+GFT: Gifto
+STRX: StrikeX
+ETHS: Ethereum PoS on Gate.io
+IPUNKS: CryptoPunks Fraction Token
+BTNYX: BitOnyx
+WDUCX: Wrapped DucatusX
+DUCX: DucatusX
+CMN: Crypto Media Network [OLD]
+ET: Extraterrestrial Token
+USD+: Overnight.fi USD+
+ETF: ETF The Token
+UFARM: UniFarm
+XZC: Zcoin
+LUNR: Lunr
+JT: Jubi Token
+BMN: BlockStream Mining Notes
+LEDU: Education Ecosystem
+AMZE: The Amaze World
+FBT: Fibitpro Exchange
+XIDO: Xido Finance
+PTX: PlatinX
+BTMX: Bitmax Token
+AAA: AAA COIN
+SMR: Shimmer Network
+PRE: Presearch
+SOON: Soonaverse
+CROWN: Crown by Third Time Games
+BOOK: BOOK
+RBN: Ribbon Finance
+MAS: Massa
+RUBY: RUBY
+KASTA: Kasta
+FXY: Floxypay
+CNC: Conic
+DFP2: DefiPlaza
+FRXETH: Frax Ether
+SFRXETH: Staked Frax Ether
+SDT: Stake DAO
+SDBAL: Stake DAO Balancer
+SDCRV: Stake DAO CRV
+CHANGE: ChangeX
+BKRW: Binance KRW
+EDGT: Edgecoin
+PEBBLE: Etherrock #72
+SAI: Single Collateral DAI
+KDAI: Klaytn Dai
+CLT: CoinLoan
+CODI: Coin Discovery
+STE: Stretch To Earn
+CMERGE: CoinMerge (ERC20)
+GOMAX: GOMAx
+GOMA: Goma Finance
+CHI: XAYA
+XIDR: XIDR
+DUCK: Unit Protocol
+COL: Unit Protocol
+CDAI: Compound Dai
+CETH: cETH
+CUSDC: cUSDC
+CUSDT: cUSDT
+CUNI: cUNI
+CZRX: c0x
+CBAT: cBAT
+CREP: cREP
+CWBTC: cWBTC
+CSAI: cSAI
+CCOMP: cCOMP
+CAAVE: cAAVE
+CSUSHI: cSUSHI
+CYFI: cYFI
+CMKR: cMKR
+CLINK: cLINK
+BHT: BHEX Token
+HBC: HBTC Captain Token
+CREX: Crex Token
+SMTY: Smoothy
+DOGEN: Dogen Finance
+OWL: OWL Token
+SGR: Sogur
+FCT: Factom
+KP3R: Keep3rV1
+WSTETH: Wrapped stETH
+TAI: TARS Protocol
+FTW: Black Agnus
+FIO: FIO Protocol
+PROPC: Propchain
+N3: Network3
+PUMPBTC: pumpBTC
+NEX: Nash
+SWTH: Carbon Protocol
+GM: GM.AI
+WAV: Fractionalized WAVE-999
+DAOJONES: Fractionalized SMB-2367
+DRGNZ: Boryoku Genesis Dragonz Index
+SAC: Stoned Ape Crew Index
+PLAYA: Playground
+IVRY: Portals Ivory Index
+BBI: Bridgesplit Brand Index
+WHALES: Catalina Whales Index
+DAPE: Degenerate Ape Academy Floor Index
+DPUNKZ: Duck Punkz Universe Floor Index
+BURR: Burrito Boyz Floor Index
+ABC: ABC Floor Index
+OKAYB: Okay Bears Floor Index
+JPYN: WENWEN JPYN
+SHAREN: WENWEN SHAREN
+EURN: WENWEN EURN
+MUNA: Muna
+SWOP: Swop
+SCONEX: SCOneX
+VIRES: Vires Finance
+IPAD: Infinity Pad
+AXAI: Axai
+WX: Waves Exchange
+BIGSB: BigShortBets
+ENNO: ENNO Cash
+YOP: Yield Optimization Platform & Protocol
+CVP: PowerPool Concentrated Voting Power
+PIPT: Power Index Pool
+YETI: Yearn Ecosystem Index
+ASSY: ASSY Index
+YLA: Yearn Lazy Ape
+LLM: Large Language Model
+ANON: Hey Anon
+SLERF: Slerf
+DADDY: Daddy Tate
+WAIT: theydontloveyoulikeiloveyou
+Z: PLANZ
+CREO: Creo Engine
+NEVER: neversol
+BILLY: Billy
+BFG: BFG Token
+PUNK: PunkCity
+NAP: Napoli Fan Token
+WSM: Wall Street Memes
+SBTC: sBTC
+ELA: Elastos
+VELAR: Velar
+BIG: BIG
+ALEX: ALEX Lab
+WELSH: Welshcorgicoin
+SX: SX Network
+NUB: Sillynubcat
+ARG: Argentine Football Association Fan Token
+SRMSO: Serum (Wormhole)
+ATLAS: Star Atlas (Wormhole)
+AURY: Aurory (Wormhole)
+USDTSO: Tether USD (Wormhole)
+USDCSO: USD Coin (Wormhole)
+MSOL: Marinade staked SOL (Wormhole)
+AKRO: Akropolis (Wormhole)
+1SOL: 1sol.io (Wormhole)
+USDTPO: Tether USD (PoS) (Wormhole)
+USDCPO: USD Coin (PoS) (Wormhole)
+MATICPO: MATIC (Wormhole)
+USDCAV: USD Coin (Wormhole from Avalanche)
+AXSET: Axie Infinity Shard (Wormhole)
+USDCBS: USD Coin (Wormhole from BSC)
+DAIPO: Dai Stablecoin (Wormhole)
+USDTBS: Tether USD (Wormhole from BSC)
+BUSDET: Binance USD (Wormhole)
+BUSDBS: Binance USD (Wormhole from BSC)
+AGEUR: agEUR (Wormhole)
+IBBTC: Interest Bearing Bitcoin (Wormhole)
+GOHM: Governance OHM (Wormhole)
+TOKE: Tokemak (Wormhole)
+UBXT: UpBots (Wormhole)
+SRMET: Serum (Wormhole from Ethereum)
+SWAG: SWAG Finance (Wormhole)
+UFO: UFO Gaming (Wormhole)
+MIMET: Magic Internet Money (Wormhole)
+USDCET: USD Coin (Wormhole from Ethereum)
+USDK: USDK (Wormhole)
+USDTET: Tether USD (Wormhole from Ethereum)
+MATH: MATH Token (Wormhole)
+FRONT: Frontier Token (Wormhole)
+FTMET: Fantom Token (Wormhole)
+MATICET: Matic (Wormhole from Ethereum)
+LUA: LuaToken (Wormhole)
+HGET: Hedget (Wormhole)
+ICE: Ice (Wormhole)
+CREDI: Credefi (Wormhole)
+USDCARB: USD Coin (Wormhole Arb)
+USDCBNB: USD Coin (Wormhole BNB)
+PFL: Professional Fighters League Fan Token
+AM: Aston Martin Cognizant Fan Token
+SAUBER: Alfa Romeo Racing ORLEN
+VIT: Team Vitality Fan Token
+SCCP: S.C. Corinthians Fan Token
+INTER: Inter Milan Fan Token
+VCF: Valencia CF Fan Token
+LEV: Levante U.D. Fan Token
+GALO: Clube Atlético Mineiro Fan Token
+ROUSH: Roush Fenway Racing Fan Token
+DZG: Dinamo Zagreb Fan Token
+MENGO: Flamengo Fan Token
+EFC: Everton Fan Token
+LUFC: Leeds United Fan Token
+SPFC: Sao Paulo FC Fan Token
+DAVIS: Davis Cup Fan Token
+RACING: Racing Club Fan Token
+AFC: Arsenal Fan Token
+MIBR: MIBR Fan Token
+SACI: SC Internacional Fan Token
+GFK: Gaziantep FK Fan Token
+CPFC: Crystal Palace FC Fan Token
+ITA: Italian National Football Team Fan Token
+VASCO: Vasco da Gama Fan Token
+TIGRES: Tigres Fan Token
+QUINS: Harlequins Fan Token
+SARRIES: Saracens Fan Token
+TIGERS: Leicester Tigers Fan Token
+PERSIB: Persib Fan Token
+FLU: Fluminense FC Fan Token
+SHARKS: The Sharks Fan Token
+UDI: Udinese Calcio Fan Token
+RSO: Real Sociedad Fan Token
+BAHIA: Esporte Clube Bahia Fan Token
+BUFC: Bali United FC Fan Token
+HASHTAG: Hashtag United Fan Token
+VERDAO: Palmeiras Fan Token
+SEVILLA: Sevilla Fan Token
+JDT: Johor Darul Ta’zim FC
+DRGN: Dragon Sun
+SUNWUKONG: SunWukong
+BHO: BHO Network
+8PAY: 8Pay
+$SWING: Swing.xyz
+OKSE: Okse
+KT: KingdomX
+DSS: Defi Shopping Stake
+LRN: Loopring [NEO]
+USTBL: Spiko US T-Bills Money Market Fund
+NFP: NFPrompt
+ARENA: The Arena
+DCT: Degree Crypto Token
+GZIL: governance ZIL
+ZWAP: ZilSwap
+FEES: Unifees
+ZILPEPE: ZilPepe
+STZIL: stZIL
+LINDA: Linda
+EXM: EXMO Coin
+OCE: OceanEX Token
+D2T: Dash 2 Trade
+XRUNE: Thorstarter
+CACAO: Maya Protocol
+DFL: DeFi Land
+GOLDY: DeFi Land Gold
+PET: Hello Pets
+CRDT: CRDT
+ZCL: Zclassic
+CRS: Cirrus
+WSTRAX: Wrapped Strax
+IF: Impossible Finance
+IDIA: Impossible Finance Launchpad
+MOBL: Mobula
+SOLID: Solidly
+OOE: OpenOcean
+VCOIN: Metajuice
+ADM: ADAMANT Messenger
+PEPEDASHAI: Pepe Dash AI
+DASHD: Dash Diamond
+PRESALE: Presale.World
+1FLR: Flare Token
+MATICX: Stader MaticX
+NFAI: Not Financial Advice
+PINKSALE: PinkSale
+INUKO: Inuko Finance
+WAM: Wam
+BNSD: BNSD Finance
+BNS: BNS
+BNSG: BNS Governance
+NABOX: Nabox
+PHNX: Phenix Finance [OLD]
+TMT: TopManager
+GOAL: TopGoal
+TSA: Teaswap Art
+CWAR: Cryowar
+PROB: Probit
+YOM: YOM
+SEKO: SekoPay
+FF: Forefront
+FUC: FUBT Token
+CVL: Civilization Network
+DARA: Immutable
+MCRT: MagicCraft
+HELLO: HELLO
+$LOBSTER: LOBSTER
+PSR: Pandora Spirit
+PAN: Pandorium
+CYOP: CyOp Protocol
+JP: JP
+QGOLD: Quorium
+KAU: Kinesis Gold
+MTV: MultiVAC
+$GAIN: Gold AI Network Token
+CIC: Crazy Internet Coin
+WBETH: Wrapped Beacon ETH
+SWAP: TrustSwap
+CITY: Manchester City Fan Token
+PRQ: PARSIQ
+CLANKER: tokenbot
+GST: GST
+GST-SOL: STEPN Green Satoshi Token on Solana
+GST-BSC: STEPN Green Satoshi Token on BSC
+GST-ETH: STEPN Green Satoshi Token on ETH
+CRVUSD: crvUSD
+UWU: UwU Lend
+DOLA: DOLA
+PORTAL: Portal
+SNS: Synesis One
+BURN: Burn
+SHI: Shina Inu
+HDX: HydraDX
+INTR: Interlay
+JIM: Jim
+NUSD: nUSD (HotBit)
+SDN: Shiden Network
+VETH: Voucher ETH
+BNC: Bifrost Native Coin
+NUUM: Metaverse.Network
+NEER: Metaverse.Network Pioneer
+KMA: Calamari Network
+KINT: Kintsugi
+KBTC: Kintsugi BTC
+KYL: Kylin Network
+MYRIA: Myria
+CEUR: Celo Euro
+STCELO: Staked Celo
+EFI: Efinity Token
+ELET: Elementeum
+VIC: Viction
+VIB: Viberate
+TOWN: Town Star
+ATR: Artrade
+ONI: ONINO
+QSR: Quasar
+NYAN: Nyan Heroes
+RFD: Refund
+PHMN: POSTHUMAN
+WTT: Wrapped Thunder Token
+LION: Lion Scrub Money
+TIGER: Tiger Scrub Money
+BEAR: Bear Scrub Money
+MARE: Mare Finance
+CHAM: Champion
+EVIC: Ethereum Victory
+XIN: Mixin
+ACSI: ACryptoSI
+REB: Realbox
+BINSPIRIT: binSPIRIT
+BEFTM: Beefy Escrowed Fantom
+ALGB: Algebra
+SPIDER: Spider Spirit
+LQDR: LiquidDriver
+LINSPIRIT: linSpirit
+WKAVA: Wrapped Kava
+FRA: Fractal
+YOOSHI: YooShi
+SCS: Solcasino Token
+AURA: Aura
+DG: DeGate
+GXC: GXChain
+DBC: DeepBrain Chain
+STRD: Stride
+DXY: US Degen Index 6900
+MNR: Mineral
+JENNER: Caitlyn Jenner
+REI: REI Network
+MTD: Minted
+IRIS: IRISnet
+XRT: Robonomics Network
+DCI: Decentralized Cloud Infra
+CVXCRV: Convex CRV
+CVXFXS: Convex FXS
+CVXFPIS: Convex FPIS
+FWOG: Fwog
+WAGMI: Wagmi
+DEL: Decimal
+A8: Ancient8
+DD: Diment Dollar
+XR: Xraders
+BUY: Buying.com
+NODL: Nodle Network
+WNT: Wicrypt
+ATOR: AirTor Protocol
+NAI: Nuklai
+VDA: Verida
+TREMP: Doland Tremp
+GOG: Guild of Guardians
+OCTA: OctaSpace
+BKN: Brickken
+TRADE: Polytrade
+KOL: King of Legends
+XDCE: XinFin Network
+WXDC: Wrapped XDC
+PRNT: Prime Numbers Ecosystem
+XTT: XSwap Treasure
+XSP: XSwap Protocol
+LBT: Law Blocks
+XRPAYNET: XRPayNet
+PLI: Plugin
+WAN: Wanchain
+WWAN: Wrapped Wan
+WANUSDT: wanUSDT
+WANUSDC: wanUSDC
+WANETH: wanETH
+WANBTC: wanBTC
+WANXRP: wanXRP
+WANAVAX: wanAVAX
+GBEX: Globiance Exchange
+PDEX: Polkadex
+CODE: Developer DAO
+WCFX: Wrapped Conflux
+GS: GammaSwap
+BOND: BarnBridge
+PURSE: Pundi X PURSE
+VITE: Vite
+WNXM: Wrapped NXM
+AE: Aeternity
+WATERFALL: Waterfall Finance
+MONEYRAIN: Moneyrain Finance
+MYMINE: MyMine
+GEMMINE: GemMine
+LFW: Legends of Fantasy War
+VDL: Vidulum
+BIST: Bistroo
+HIT: HitBTC Token
+NFTI: NFT Index
+GTAI: GT Protocol
+MEOW: MEOW
+SWELL: Swell
+FB: Fractal Bitcoin
+RCH: RCH Token
+G3: GAM3S.GG
+MONAI: Monai
+FSN: FUSION
+VINU: Vita Inu
+IAZUKI: IAzuki
+IMAYC: IMAYC
+IDOODLES: IDOODLES
+EST: Erica Social Token
+DOGE2: Dogecoin 2.0
+CLAM: Otter Clam
+GTP: GT-Protocol
+MCADE: Metacade
+REVV: REVV
+SOULS: The Unfettered Souls
+BPC: Brave Power Crystal
+AVG: Avocado DAO
+OVR: Ovr
+AG: Aradenean Gold
+HAPI: HAPI
+WALLET: Ambire Wallet
+PART: Particl
+SWIV: Swivel Governance
+VOLT: Volt Protocol
+RSPT: Rari Stable Pool Token
+FLEX: FLEX Coin
+SOHM: Staked Olympus
+WSOHM: Wrapped Staked Olympus
+HFT: Hashflow
+FORT: Forta
+PSP: ParaSwap
+BXX: Baanx
+TROLL: Troll
+X3TA: XETA
+MBET: MetaBET
+SGB: Songbird
+WFLR: Wrapped Flare
+WSGB: Wrapped Songbird
+CULT: Cult DAO
+RVLT: Revolt 2 Earn
+DACXI: Dacxi
+RF: ReactorFusion
+DEO: Player 2
+HER: Herity Network
+$SPIN: Spin Fi
+INTL: Intelly
+AEDY: Arch Ethereum Div. Yield
+ADDY: Arch USD Div. Yield
+ABAL: Arch Balanced Portfolio
+AAGG: Arch Aggressive Portfolio
+NEARX: Stader NearX
+BPRO: B.Protocol
+AMPLUNA: Eris Amplified Luna
+PILOT: Unipilot
+PLX: PLEXUS
+GRS: Groestlcoin
+HEGIC: Hegic
+DNT: district0x
+SPARTA: SpartaDEX
+BTR: Bitrue Coin
+BCB: Blockchain Bets
+PRGD: Prosperity Gold
+BCA: Bitcoiva
+VFT: Value Finance
+SRO: Shopperoo
+BTCD: Bitdollars
+0xBTC: 0xBitcoin
+VICS: RoboFi Token
+VD: VinDax Coin
+GTF: GLOBALTRUSTFUND TOKEN
+LET: Linkeye
+ABG: Abitcoingold coin
+RING: Darwinia Network Native Token
+KTON: Darwinia Commitment Token
+CRING: Darwinia Crab Network Native Token
+VX: ViteX Coin
+PDRY: Pandroyty Token
+DCD: Digital Currency Daily
+BTCP: Bitcoin Private
+BUMBA: BumbaCoin
+BCD: Bitcoin Diamond
+GIO: Graviocoin
+MINEX: Minex
+ACP: AnarchistsPrime
+SICX: Staked ICX
+IUSDC: Icon USDC
+WGLMR: Wrapped Moonbeam
+XCDOT: xcDOT
+XCUSDT: xcUSDT
+LGCY: LGCY Network
+XLAB: XCELTOKEN PLUS
+KSP: KlaySwap Protocol
+CUDOS: Cudos
+MRS: Metars Genesis
+KARRAT: Karrat
+ORAI: Oraichain
+WROSE: Wrapped Rose
+KNCL: Kyber Network Crystal Legacy
+AKUMA: Akuma Inu
+WIOTX: Wrapped IoTex
+CIOTX: Crosschain IOTX
+AST: AirSwap
+USDT0: USDT0
+SEIYAN: SEIYAN
+ALB: Alien Base
+YOU: Youves YOU Governance
+TKN: Monolith
+NORMIE: NORMIE
+BBS: BBS Network
+ANKRETH: Ankr Staked ETH
+AETHB: Ankr Reward-Earning Staked ETH
+AAVAXB: Ankr Avalanche Reward Earning Bond
+ABNBC: Ankr Reward Bearing Stake BNB
+ADOTB: ANKR Reward Earning DOT
+AKSMB: ANKR Reward Earning KSM
+ANKRFTM: Ankr Staked FTM
+AFTMB: ANKR Reward Earning FTM
+ABNBB: ANKR Reward Earning BNB
+AAVAXC: Ankr Reward Bearing AVAX
+AMATICB: Ankr MATIC Reward Earning Bond
+ANKRAVAX: Ankr Staked AVAX
+ANKRMATIC: Ankr Staked MATIC
+DEXT: DexTools
+SIDUS: Sidus
+XCP: Counterparty
+AI: Any Inu
+XOR: Sora
+KWENTA: Kwenta
+DHT: dHEDGE DAO
+DTOP: dHEDGE Top Index
+DUSD: dHEDGE Stablecoin Yield
+DSNX: SNX Debt Mirror
+WTBT: wTBT
+TBT: Rebasing TBT
+VLK: Vulkania [OLD]
+OPX: OPX Finance
+SOMM: Sommelier
+GNT: Golem
+FOXD: Foxdcoin
+CLO: Callisto Network
+GPCX: Good Person Coin
+TITA: Titan Hunters
+POLYDOGE: PolyDoge
+PDSHARE: PDSHARE
+PDD: PDDOLLAR
+KRL: KRYLL
+CHO: Choise
+LITH: Lithium Finance
+CCX: Conceal
+WCCX: Wrapped Conceal
+APEAMC: AMC Entertainment Preferred Tokenized Stock on FTX
+WBDC: BullDoge Chain
+DXC: Dex-Trade Coin
+FLEXUSD: flexUSD
+EROWAN: Sifchain
+HE: Heroes & Empires
+TTN: Titan Coin
+VRO: VeraOne
+EML: EML Protocol
+PTRUMP: Pepe Trump
+WWSHIB: Wrapped WWSHIB
+YVAULT-LP-YCURVE: yUSD
+YVE-CRVDAO: veCRV-DAO yVault
+YVBOOST: Yearn Compounding veCRV yVault
+SOYFI: Wrapped YFI (Sollet)
+YCRV: Yearn CRV
+ST-YCRV: Staked Yearn CRV Vault
+LP-YCRV: LP Yearn CRV Vault
+YVDAI: yvDAI
+YVUSDC: USDC yVault
+YVUSDT: USDT yVault
+YVUNI: UNI yVault
+YVYFI: YFI yVault
+YVCOMP: COMP yVault
+YVAAVE: Aave yVault
+YVLUSD: LUSD yVault
+YVSUSHI: SUSHI yVault
+YVWETH: WETH yVault
+YVRAI: RAI yVault
+YVWBTC: WBTC yVault
+YV1INCH: 1INCH yVault
+YVTUSD: TUSD yVault
+YVSUSD: sUSD yVault
+YVHEGIC: HEGIC yVault
+YVSNX: SNX yVault
+YVLINK: LINK yVault
+YETH: Yearn Ether
+FERA: Fera
+BSKT: BasketCoin
+GOZ: Göztepe S.K. Fan Token
+LEG: Legia Warsaw Fan Token
+UCH: Universidad de Chile Fan Token
+FOR: Fortuna Sittard Fan Token
+SECO: Serum Ecosystem
+PSY: PsyOptions
+SLND: Solend
+BBW: BabyWhale
+SVT: Solvent
+STAKE: STAKE
+XDAI: XDAI
+XTAG: xHashtag
+XUSD: XUSD (BabelFish)
+BLZ: Bluzelle
+MINI: mini
+NEW: Newton Project
+AMB: AirDAO
+WAXE: WAXE
+CA: Coupon Assets
+LAKE: Data Lake
+L3: Layer3
+APX: APX
+BBC: Babacoin
+CLY: Colony
+OPTI: Optimus AI
+BYTE: Byte
+BEFE: BEFE
+HBD: Hive Dollar
+MAXI: Maximus Token
+BASE: Maximus BASE
+LUCKY: Maximus LUCKY
+TRIO: Maximus TRIO
+DECI: Maximus DECI
+TEAM: Maximus TEAM
+DUO: Monopoly Layer2 DUO
+APEX: ApeX
+HOOK: Hooked Protocol
+TRIBL: Tribal Token
+MAV: Maverick Protocol
+SRX: StorX
+LMR: Lumerin
+BLD: Agoric
+UM: Penumbra
+OAX: OAX
+NBT: NanoByte
+DEVL: Devil Token
+ALTER: Alter
+FLP: Gameflip
+TUBE2: TUBE2
+SPORK: SporkDAO
+FHM: Fantohm
+DGLN: Dogelana
+NFTY: NFTY Token
+SAFU: StaySAFU
+JUSTICE: AssangeDAO
+POOCH: Pooch
+EJS: Enjinstarter
+JUNGLE: Jungle Token
+SALE: DxSale Network
+CTOK: Codyfight
+QUA: Quasacoin
+DRAW: Dragon War
+ERA: The Alliance of Eragard
+KMON: Kryptomon
+TKNFY: Tokenfy
+1ST: FirstBlood
+YON: YESorNO
+PINK: PINK PANTHER
+KRIDA: Krida Fans
+EGOH: EGOH Finance
+BWRX: Wrapped WRX
+UNBNK: Unbanked
+HODL: HODL
+AGOV: Answer Governance
+HECATE: Hecate Capital
+ZION: Zion
+JOON: JOON
+SOLAR: Solar
+SEFI: SEFI
+B21: B21
+PAF: Pacific
+XGEM: Exchange Genesis Ethlas Medium
+INCNT: Incent
+KDC: Fandom Chain
+UNIV: Universe
+LYM: Lympo
+LMT: Lympo Market Token
+SDOGE: Sincere Doge
+CSMS: Cosmostarter
+JUNO: JUNO
+GENART: GENART
+BNV: BunnyVerse
+NINTI: Nintia Estate
+FWB: Friends With Benefits Pro
+EXO: Exohood
+DFSM: DFS MAFIA
+WSIENNA: Sienna [ERC-20]
+SIENNA: Sienna
+ZYX: ZYX
+MYL: My Lotto Coin
+XP: PolkaFantasy
+NEKO: The Neko
+BUTT: Buttcoin
+$CRDN: Cardence
+KOM: Kommunitas
+MHG: Meta Hangry Games
+TRTLS: Turtles Token
+ATBFIG: Financial Intelligence Group Token
+INKZ: INKzToken
+NINJA: NinjaSwap
+LAC: LaCucina
+THC: Transhuman Coin
+BREWLABS: Brewlabs
+HY: Hybrix
+ECO: EcoFi
+VGA: Vegaswap
+METTI: Metti Inu
+WIRE: AirWire
+BLOCKS: BLOCKS
+DYNAMO: Dynamo Coin
+STT: StarTerra
+FUEL: Jetfuel Finance
+GFCE: GFORCE
+FTS: Fortress Loans
+WINGS: JetSwap Token
+MEM: Memecoin
+BRAND: BrandPad Finance
+EINSTEIN: Polkadog V2.0
+NASADOGE: Nasa Doge
+COMBO: Furucombo
+EMO: Emocoin
+TYC: Tycoon
+ATA: Automata
+KOIN: Koinos
+DOBO: DogeBonk
+UBX: UBIX Network
+UBSN: Silent Notary
+DANA: Ardana
+BTCA: Bitcoin Asia
+XHDX: HydraDX
+LOVE: Diamond Love
+XRDOGE: XRdoge
+ANYP: AnyPrinter
+DHOLD: DeFi Holdings
+MOWA: Moniwar
+DFT: DigiFinexToken
+KODI: KODI
+RENBCH: renBCH
+RENZEC: renZEC
+RENFIL: renFIL
+RENDOGE: renDOGE
+ZKP: Panther Protocol
+UGAS-JAN21: uLABS synthetic Gas Futures Token
+BCHNRBTC-JAN-202: BCHNrBTC Synthetic Token Expiring 5 January 2021
+YD-BTC-MAR21: YD-BTC-MAR21
+MARIO-CASH-JAN-2: Mario Cash Synthetic Token Expiring 15 January 2021
+UUSDRBTC-OCT: uUSDrBTC Synthetic Token Expiring 1 October 2020
+UUSDRBTC-DEC: uUSDrBTC Synthetic Token Expiring 31 December 2020
+YUSD-OCT20: yUSD Synthetic Token Expiring 1 October 2020
+UUSDWETH-DEC: uUSDwETH Synthetic Token Expiring 31 December 2020
+YD-ETH-MAR21: YD-ETH-MAR21
+YUSD-SEP20: yUSD Synthetic Token Expiring 1 September 2020
+YD-ETH-JUN21: YD-ETH-JUN21
+YD-BTC-JUN21: YD-BTC-JUN21
+XSUSHI: xSUSHI
+GRIFFAIN: GRIFFAIN
+SHRUB: Shrub
+XKI: KI
+EETH: ether.fi Staked ETH
+BEN: Ben
+LVL: Level
+BLUES: Blueshift
+SHRAP: Shrapnel
+SILV: Escrowed Illuvium
+SILV2: Escrowed Illuvium 2
+SDAO: SingularityDAO
+HASHAI: HashAI
+BLENDR: Blendr Network
+PALM: PaLM AI
+AQTIS: AQTIS
+LONIA: Cardalonia
+OKT: OKT Chain
+PNB: Pink BNB
+ARIX: Arix
+LGBTQ: Pride
+HOD: HoDooi.com
+JESUS: JesusCoin
+NFTB: NFTb
+MONG: MongCoin
+ULX: ULTRON
+MURATIAI: MuratiAI
+CAL: FitBurn
+AFINS: altFINS
+EPM: Extreme Private Masternode
+DRAGONKING: DragonKing
+NAMI: Nami Corporation
+CZF: CZFarm
+CZUSD: CZUSD
+CZR: CZRed
+JERRY: Jerry Inu
+QUACK: Rich Quack
+BUBO: Budbo
+GAMMA: Gamma Strategies
+FCF: French Connection Finance
+VGT: Vault Guardian Token
+CHAI: CharacterAI
+OPV: OpenLive NFT
+CAVO: Excavo Finance
+AIN: AI Network
+WORM: Deep Worm
+WSYS: Wrapped Syscoin
+CLS: Coldstack
+KAR: Karura
+LKSM: Liquid KSM
+LCDOT: Liquid Crowdloan DOT
+LDOT: Liquid Staking Dot
+ASEED: aUSD SEED (Acala)
+CHAIN: Chain Games
+DAM: Datamine
+BOO: Spookyswap
+TKO: Tokocrypto
+MORE: Stack
+UNFI: Unifi Protocol DAO
+DYP: Dypius
+IDYP: iDypius
+GOLDX: dForce GOLDx
+XBTC: dForce BTC
+XETH: dForce ETH
+EUX: dForce EUR
+NUT: Nucleon
+XCFX: Nucleon xCFX
+PPI: Swappi
+GOL: Goledo
+TCNH: TrueCNH
+DJED: Djed
+DMC: Datamall Coin
+TALK: Talken
+BAG: Bag
+WCKB: Wrapped CKB
+DROP: DROP
+OORT: OORT
+STEP: Step Finance
+MVP: MAGA VP
+PXS: Pundi X [OLD]
+NPXSXEM: Pundi X NEM
+CAT: Simon's Cat
+TGT: THORWallet DEX
+RSV: Reserve
+EUSD: Electronic USD
+LTO: LTO Network
+WING: Wing Finance
+ALPINE: Alpine F1 Team Fan Token
+DAD: DAD
+DEVVE: DevvE
+SDEX: SMARDEX
+XMD: Metal Dollar
+XDN: DigitalNote
+POLIS: Star Atlas DAO
+WOMI: Wrapped ECOMI
+FTR: Future
+DFX: DFX Finance
+BART: BarterTrade
+MYST: Mysterium
+MLT: Media Licensing Token
+BNKR: BankrCoin
+A1C: Sally A1C
+XMW: Morphware
+HIPPO: sudeng
+MEMDEX: MEMDEX100
+MAN: Matrix AI Network
+BEPRO: Bepro
+TAP: Tapioca DAO Token
+WZRD: Bitcoin Wizards
+MUBI: Multibit
+MAX: MAX
+KRT: TerraKRW
+KRTC: TerraClassicKRW
+EUTC: TerraClassic EUT
+GBTC: TerraClassicGBT
+DKTC: TerraClassicDKT
+AUTC: TerraClassicAUT
+CATC: TerraClassicCAT
+CHTC: TerraClassicCHT
+SETC: TerraClassicSET
+PHTC: TerraClassicPHT
+SGTC: TerraClassicSGT
+CNTC: TerraClassicCNT
+HKTC: TerraClassicHKT
+INTC: TerraClassicINT
+JPTC: TerraClassicJPT
+THTC: TerraClassicTHT
+CDT: Blox
+MAGICGLP: MagicGLP
+EZETH: Renzo Restaked ETH
+JELLYJELLY: Jelly-My-Jelly
+STAR10: Ronaldinho Coin
+GEMINI: Gemini
+HOOD: Robinhood
+OGV: Origin DeFi Governance
+OETH: Origin Ether
+WOETH: Wrapped OETH
+LSD: L7DEX
+RETH: Rocket Pool ETH
+STSOL: Lido Staked SOL
+BLUNA: Bonded Luna
+STLUNA: Staked Luna
+STMATIC: Lido Staked Matic
+STDOT: Lido Staked Polkadot
+WSTKSM: Lido on Kusama
+SUSDE: Ethena Staked USDe
+PAWS: Paws
+AMO: AMO Coin
+FVM: Fantom Velocimeter
+EQUAL: Equalizer DEX
+NEADRAM: The Ennead
+OOKI: Ooki
+BYN: NBX
+VSTA: Vesta Finance
+VST: Vesta Stable
+RVST: Revest Finance
+DIGG: DIGG
+DTSLA: Tesla Tokenized Stock Defichain
+DAMZN: Amazon Tokenized Stock Defichain
+DQQQ: Invesco QQQ Trust Defichain
+DNFLX: Netflix Tokenized Stock Defichain
+DTLT: iShares 20+ Year Treasury Bond ETF Defichain
+DVOO: Vanguard S&P 500 ETF Tokenized Stock Defichain
+DEEM: iShares MSCI Emerging Markets ETF Defichain
+DSLV: iShares Silver Trust Defichain
+DURTH: iShares MSCI World ETF Tokenized Stock Defichain
+DAAPL: Apple Tokenized Stock Defichain
+DGLD: SPDR Gold Shares Defichain
+DVNQ: Vanguard Real Estate Tokenized Stock Defichain
+DBABA: Alibaba Tokenized Stock Defichain
+DGME: GameStop Tokenized Stock Defichain
+DNVDA: Nvidia Tokenized Stock Defichain
+DPLTR: Palantir Tokenized Stock Defichain
+DSPY: SPDR S&P 500 ETF Trust Defichain
+DPDBC: PDBC Defichain
+DCOIN: Coinbase Tokenized Stock Defichain
+DMSFT: Microsoft Tokenized Stock Defichain
+DGOOGL: Google Tokenized Stock Defichain
+DFB: Facebook Tokenized Stock Defichain
+DARKK: ARK Innovation ETF Defichain
+CAD: Cadence Protocol
+CNHT: CNH Tether
+USDTE: Tether Avalanche Bridged (USDT.e)
+CEUSDT: Tether USD - Celer
+MXNT: Mexican Peso Tether
+GBPT: British Pound Sterling Tether
+ZUSDT: Zilliqa-bridged USDT
+ZOA: Zotova
+GCBN: Gas Cash Back
+ASTRO: Astroport
+STARL: StarLink
+FACT: Fact0rn
+PUFF: Puff The Dragon
+ITG: iTrust Governance
+WEMIX$: WEMIX Dollar
+MIR: Mirror Protocol
+MUTE: Mute
+HYDRA: Hydra
+BRIDGE: Octus Bridge
+CORGIAI: CorgiAI
+WWEMIX: WWEMIX
+STWEMIX: Staked WEMIX
+WRFT: Wrapped REFLECT
+CCA: Counos Coin
+ENQ: Enecuum
+ENX: ENEX
+JUMP: Jump DeFi
+IPOR: IPOR
+$BULL: BULL Token
+$DAVE: Dave Coin
+SXS: SphereSXS
+BISO: BISO
+DXP: DexPad
+JEN: JEN COIN
+BONUZ: Bonuz
+NOOT: NOOT (Ordinals)
+GZONE: GameZone
+INCOME: Income Island
+IBANK: iBank
+BPX: Black Phoenix
+GENESIS: Genesis Worlds
+METADOGE: Meta Doge
+RMXT: Rematic EGC
+RMTX: RematicEGC
+CHER: Cherry Network
+UFF: United Farmers Finance
+GRAIN: Grain Token
+ZODI: Zodium
+TARAL: Tarality
+BEZOGE: Bezoge Earth
+ASIA: Asia Coin
+OGX: Organix
+MASKDOGE: MaskDoge
+ADABOY: ADABoy
+PCWS: PolyCrowns
+MTK: Metakings
+SONG: Beatify
+MOVD: MOVE Network
+SMLY: Smileycoin
+BABI: Babylons
+BYG: Black Eye Galaxy
+VPAD: VLaunch
+LBD: LittleBabyDoge
+NAUSICAA: Nausicaa-Inu
+YF-DAI: YfDAI.finance
+SSGT: Safeswap
+SSGTX: Safeswap SSGTX
+XTRA: Xtra Fund
+WAIF: Waifu Token
+MONI: Monsta Infinite
+DAL: DAOLaunch
+XTM: Torum
+SATT: SaTT
+SON: SONofSHIB
+DGM: DegemV2
+CBX: CropBytes
+YFU: yfu.finance
+TERN: Ternio
+GP: Wizards And Dragons
+KFR: KING FOREVER
+LKT: Locklet
+CNS: Centric Swap
+BMON: Binamon
+VRFY: Verify Token
+LMN: Lemon
+AMC: Amnext
+SRWD: ShibRWD
+KOROMARU: KOROMARU
+SHFT: Shyft Network
+NIM: Nimiq
+LL: LightLink
+ION: Ion
+$AQUA: AquaDAO
+AXLUSDC: Axelar USDC
+AXLWETH: axlWETH
+AXLWBTC: axlWBTC
+DEC: Decentr
+UUSDT: Unagii Tether USD
+UUSDC: Unagii USD Coin
+UDAI: Unagii Dai
+UWBTC: Unagii Wrapped Bitcoin
+UETH: Unagii ETH
+CNTO: Ciento Exchange
+STATOM: Stride Staked Atom
+$STLUNA: Stride Staked Luna
+GOLD: CyberDragon Gold
+YES: YES Money
+COOKIE: Cookie
+FREE: FreeRossDAO
+WEVER: Wrapped Ever
+WASTR: Wrapped Astar
+$XCASTR: Astar (Moonbeam)
+MOVEZ: MoveZ
+EVMOS: Evmos
+AZUKI: Azuki
+EPICHERO: EpicHero
+BONDLY: Forj
+DFH: DeFiHorse
+RR: DeFiHorse Rocket Race
+ALK: Alkemi Network DAO
+MU: Muverse
+GRAI: Grai
+AURABAL: Aura BAL
+CASTLE: bitcastle
+OT-CDAI-29DEC202: OT Compound Dai
+OT-AUSDC-29DEC20: OT Aave Interest Bearing USDC
+OT-PE-29DEC2022: OT-PENDLE/ETH
+OT-ETHUSDC-29DEC: OT-ETH/USDC
+TADA: Ta-da
+MEDX: MediBloc [ERC20]
+PNT: pNetwork
+PBTC: pTokens BTC
+X2Y2: X2Y2
+IXS: IX Swap
+BOSON: Boson Protocol
+SMT: Swarm Markets
+POP: Popcorn
+PLASTIK: Plastiks
+DXCAD: dXCAD
+PLAY: XCAD Network PLAY
+1PECO: 1peco
+ARMY: XRP ARMY
+PHNIX: PHNIX
+NFTX: NFTX
+PUNK-BASIC: Punk Basic
+PUNK-FEMALE: Punk Female
+PUNK-ATTR-4: Punk Attr 4
+PUNK-ATTR-5: Punk Attr 5
+PUNK-ZOMBIE: Punk Zombie
+AVASTR: AVASTR Vault (NFTX)
+COOL: COOL Vault (NFTX)
+BAYC: BAYC Vault (NFTX)
+KITTY: KITTY Vault (NFTX)
+BERRY: BERRY Vault (NFTX)
+FACE: FACE Vault (NFTX)
+HYPER: HYPER Vault (NFTX)
+MINUTE: MINUTE Vault (NFTX)
+PATH: PATH Vault (NFTX)
+WAIFU: WAIFU Vault (NFTX)
+BGAN: BGAN Vault (NFTX)
+BUNNY: BUNNY Vault (NFTX)
+BONSAI: BONSAI Vault (NFTX)
+CARD: CARD Vault (NFTX)
+MOONCAT: MOONCAT Vault (NFTX)
+GLYPH: GLYPH Vault (NFTX)
+MEEB: MEEB Vault (NFTX)
+SQGL: SQGL Vault (NFTX)
+BAKC: BAKC Vault (NFTX)
+ENERGY: ENERGY Vault (NFTX)
+RINGER: RINGER Vault (NFTX)
+MANEKI: MANEKI Vault (NFTX)
+SPUNK: SPUNK Vault (NFTX)
+PASTA: PASTA Vault (NFTX)
+PUPS: PUPS Vault (NFTX)
+TOSHIMON: TOSHIMON Vault (NFTX)
+SODIUM: SODIUM Vault (NFTX)
+CNHPD: Chainlink NFT Vault (NFTX)
+PHUNK: PHUNK Vault (NFTX)
+HDPUNK: HDPUNK Vault (NFTX)
+KONGZ: KONGZ Vault (NFTX)
+MORPH: MORPH Vault (NFTX)
+WIZARD: WIZARD Vault (NFTX)
+COLLECTIVE: COLLECTIVE Vault (NFTX)
+KAMAX: KAMAX Vault (NFTX)
+TOPDOG: TOPDOG Vault (NFTX)
+DFNORM: DFNORM Vault (NFTX)
+CLOCK: CLOCK Vault (NFTX)
+CITIES: CITIES Vault (NFTX)
+LONDON: LONDON Vault (NFTX)
+MILADY: Milady Vault (NFTX)
+MAYC: MAYC Vault (NFTX)
+SBD: Steem Dollars
+VFIL: Venus FIL
+VBTC: Venus BTC
+VBETH: Venus BETH
+VBCH: Venus BCH
+VDAI: Venus DAI
+VLINK: Venus LINK
+VLTC: Venus LTC
+VXRP: Venus XRP
+VUSDT: Venus USDT
+VDOT: Venus DOT
+VSXP: Venus SXP
+VXVS: Venus XVS
+VDOGE: Venus DOGE
+VRT: Venus Reward
+TEMA: Tema
+FOFAR: FoFar
+SUNCAT: Suncat
+SLN: Smart Layer Network
+AART: ALL.ART
+MET: Metronome
+DIVX: Divi Exchange Token
+SN: SpaceN
+FLX: Flux Protocol
+MIX: MixMarvel
+INSP: Inspect
+PACK: HashPack
+UFD: Unicorn Fart Dust
+TRUMPIUS: Trumpius Maximus
+AETHER: aether collective
+SPORE: Spore
+KIKI: KIKICat
+MVRS: Magaverse
+DYOR: DYOR LABS
+SSE: Solana Social Explorer
+JAILSTOOL: Stool Prisondente
+MBX: MARBLEX
+ELIZA: Eliza
+PUFFER: Puffer
+XCKSM: xcKSM
+BULLS: BULLS
+NHBTC: nHBTC
+HAI: Hacken
+KAON: Kaon
+EMAID: MaidSafeCoin
+TDOGE: τDoge
+WATER: WATER Coin
+R: Ryder System
+DRIP: Drip Network
+PIGS: PIGS [OLD]
+AFP: PIGS
+BST: Blocksquare
+BEAN: Bean
+SEUR: sEUR
+SET: Stabilize SET
+SETH: sETH
+IBTC: iBTC
+IETH: iETH
+SDEFI: sDEFI
+SXAU: sXAU
+SLINK: sLINK
+SBNB: sBNB
+SADA: sADA
+SXAG: sXAG
+SXMR: sXMR
+SAUD: sAUD
+SEOS: sEOS
+SXRP: sXRP
+SXTZ: sXTZ
+SBCH: sBCH
+IXMR: iXMR
+SDASH: sDASH
+IXRP: iXRP
+SCEX: sCEX
+ICEX: iCEX
+IDEFI: iDeFi
+IXTZ: iXTZ
+ILINK: iLINK
+SLTC: sLTC
+IBNB: iBNB
+IADA: iADA
+IEOS: iEOS
+IBCH: iBCH
+SOIL: Synth sOIL
+SAAVE: sAAVE
+STSLA: sTSLA
+SRUNE: sRUNE
+S1INCH: s1INCH
+SGOOG: sGOOG
+SAMZN: sAMZN
+SFB: sFB
+SNFLX: sNFLX
+SCRV: sCRV
+SDOT: sDOT
+SUNI: sUniswap
+SREN: sREN
+SCOMP: sCOMP
+WVET: Wrapped VeChain
+VEUSD: VeUSD
+$NAP: SNAP
+PNK: Kleros
+SEAL: Seal
+CB: Cheeseball
+$SMH: Spacemesh
+STNEAR: Staked NEAR
+STAUR: Staked Aurora
+FITFI: Step App
+GARI: Gari Network
+BAMA: BabyAMA
+SOSO: SoSoValue
+EL: ELYSIA
+LM: LeisureMeta
+TTV: TV-TWO
+RBLX: Rublix
+BOLD: Liquity BOLD
+LUSD3CRV: LUSD3CRV-f
+UFT: UniLend Finance
+FRED: First Convicted RACCON
+XSHARE: SpaceShipX
+AMLP: aMLP
+AMMF: aMMF
+XSHIP: XSHIP
+AUSDC: SpaceShipX aUSDC
+XMATIC: xMATIC
+STRUMP: Super Trump
+NAKA: Nakamoto Games
+BBL: Beoble
+PYTHIA: PYTHIA
+$URO: Urolithin A
+FROG: Frodo the Virtual Samurai
+TERMINUS: Terminus
+MAP: MAP Protocol
+MAUSDC: Matic Aave Interest Bearing USDC
+MAUSDT: Matic Aave Interest Bearing USDT
+MAAAVE: Matic Aave Interest Bearing AAVE
+MAYFI: Matic Aave Interest Bearing YFI
+MAUNI: Matic Aave Interest Bearing UNI
+MATUSD: Matic Aave interest bearing TUSD
+MALINK: Matic Aave Interest Bearing LINK
+MADAI: Matic Aave Interest Bearing DAI
+MAWETH: Matic Aave Interest Bearing WETH
+KEK: Aavegotchi KEK
+WCFG: Wrapped Centrifuge
+KMD: Komodo
+GROW: ValleyDAO
+ORACLE: OracleSwap
+PEAK: Peak Finance
+ELON4AFD: Elon4AfD
+ANJ: Aragon Court
+WHOO: Wrapped HOO
+LOOMOLD: Loom Network (OLD)
+WTLOS: Wrapped Telos
+LIKE: Only1
+SKLAY: sKLAY
+OUSDT: Orbit Bridge Klaytn USD Tether
+OUSDC: Orbit Bridge Klaytn USDC
+OMATIC: Orbit Bridge Klaytn MATIC
+OBNB: Orbit Bridge Klaytn Binance Coin
+OXRP: Orbit Bridge Klaytn Ripple
+OWBTC: Orbit Bridge Klaytn Wrapped BTC
+OBELT: Orbit Bridge Klaytn BELT
+OHANDY: Orbit Bridge Klaytn Handy
+OORC: Orbit Bridge Klaytn Orbit Chain
+KFI: Klever Finance
+BOTTO: Botto
+BTU: BTU Protocol
+SNC: SunContract
+FU: FU Money
+ROND: ROND
+SOCCER: Bakery Soccer Ball
+POKER: Poker
+WAMPL: Wrapped Ampleforth
+SPOT: Spot
+WEETH: Wrapped eETH
+WCORE: Wrapped CORE
+SCORE: Staked CORE
+TOMOE: TomoChain ERC-20
+BOUNTY: ChainBounty
+BOW: Archerswap BOW
+LEVER: LeverFi
+CHT: CyberHarbor
+BB-A-USD: Balancer Boosted Aave USD
+BB-A-USDC: Balancer Boosted Aave USDC
+BB-A-USDT: Balancer Boosted Aave USDT
+BB-A-DAI: Balancer Boosted Aave DAI
+B-80BAL-20WETH: Balancer 80 BAL 20 WETH
+20WETH-80BAL: 20WETH-80BAL
+BB-A-WETH: Balancer Aave v3 Boosted Pool (WETH)
+MATICX-BB-A-WMAT: Balancer MaticX Boosted Aave WMATIC
+BB-A-WMATIC: Balancer Aave Boosted WMATIC
+VNDC: VNDC
+WCENNZ: Wrapped CENNZ
+CGT: Coin Gabbar Token
+LIBERO: Libero Financial
+LIBERA: Libera Financial
+HUSL: The HUSL
+HALO: Halo Coin
+KNG: Kanga Exchange
+PSDN: Poseidon
+PSDNOCEAN: Poseidon OCEAN
+ANALOS: analoS
+HIFI: Hifi Finance
+DOGK: Dagknight Dog
+WEPE: Wall Street Pepe
+PEP: Pepecoin
+EUT: Terra EUT
+GBT: Terra GBT
+DKT: Terra DKT
+AUT: Terra AUT
+PHT: Terra PHT
+SGT: Terra SGT
+CNT: Terra CNT
+HKT: Terra HKT
+INT: Terra INT
+JPT: Terra JPT
+THT: Terra THT
+COOK: mETH Protocol
+HLG: Holograph
+METH: Mantle Staked Ether
+LOFI: LOFI
+NAVI: Atlas Navi
+OS: Origin Sonic
+KAMA: Kamala Horris
+GEMS: Gems VIP
+MAJOR: Major Frog
+HAMMY: SAD HAMSTER
+D.O.G.E: Department Of Government Efficiency
+XDAO: XDAO
+REDO: Resistance Dog
+"NEET: Not in Employment, Education, or Training"
+HAWK: Hawk
+CRVT: Crypto Revolution
+AIBB: BullBear AI
+KING: Kingdomverse
+KRD: Krypton DAO
+DOGINME: doginme
+OWN: Otherworld
+USYC: Hashnote USYC
+NAVX: NAVI Protocol
+FLUID: Fluid
+47: TRUMP 47
+SKI: Ski Mask Dog
+SWITCH: Switch Token
+RS: ReadySwap
+C3: Charli3
+MOCHI: Mochi
+BTSE: BTSE Token
+DNA: Muhdo Hub
+RPG: Rangers Protocol Gas
+ZBC: Zebec Protocol
+ALOT: Dexalot
+GOUT: GOUT
+GEL: Gelato
+SOUL: Phantasma
+ROUTE: Router Protocol
+BZZ: Swarm
+JPEG: JPEG'd (OLD)
+NXRA: AllianceBlock Nexera
+GG: Reboot
+UBXS: UBXS
+SCF: Smoking Chicken Fish
+KEYCAT: Keyboard Cat (Base)
+ZYN: ZynCoin
+LMEOW: lmeow
+NRG: Energi
+WNRG: Wrapped Energi
+INF: Sanctum Infinity
+NATIX: NATIX Network
+BERT: Bertram The Pomeranian
+HAEDAL: Haedal Protocol
+CRPT: Crypterium
+NTRN: Neutron
+ZEUS: Zeus Network
+SHDW: Shadow Token
+RETARDIO: RETARDIO
+CATDOG: Cat-Dog
+SQR: Magic Square
+SHADOW: Shadow
+BGT: Berachain BGT
+GRIFT: ORBIT
+BUZZ: Hive AI
+MUSKIT: Musk It
+PIPPIN: pippin
+NDX: NDX6900
+STAKELAYER: StakeLayer
+HTM: Hatom
+METAL: Badmad Robots
+PAI: ParallelAI
+VISTA: Ethervista
+JEFF: Jeff
+FEG: FEED EVERY GORILLA
+WAT: Wat
+LAYERX: UnilayerX
+LAI: LayerAI
+BOTIFY: BOTIFY
+FREYA: Freya by Virtuals
+GUD: Gud Tech
+M3M3: M3M3
+KIP: KIP
+BUILD: BUILD
+NOVA: AI Shell NOVA
+THE1: The1
+YOUSIM: YouSim
+DAKU: Daku
+PDT: ParagonsDAO
+MIGGLES: Mister Miggles
+MAWBTC: Morpho-Aave Wrapped BTC
+MACRV: Morpho-Aave Curve DAO Token
+TPT: TokenPocket Token
+BLP: BullPerks
+SOLAMA: Solama
+PANDA: Panda Swap
+OPEN: Open Custody Protocol
+FHE: Mind Network
+RARI: RARI
+ZEX: Zeta
+USP: Platypus USD
+KLAUS: KLAUS
+BLISS: Bliss
+CATS: CATS
+KLIMA: KlimaDAO
+DMTR: Dimitra
+FFF: Financial Freedom Formula
+SYSL: YSL.IO
+YSL: YSL
+XYSL: xYSL
+BYSL: bYSL
+RUSD: Reservoir rUSD
+ROCKY: Rocky
+999: 999
+SNSY: Sensay
+BTZ: Bitazza
+SHARE: Seigniorage Shares
+NOMNOM: nomnom
+BULLY: Dolos The Bully
+UDS: Undeads Games
+WVENOM: Wrapped VENOM
+MATT: MATT
+LKY: Luckycoin
+MAD: MAD
+SIGMA: Sigma
+SINGLE: Single Finance
+AUTOS: AutoSingle
+FCTR: FactorDAO
+LGO: Level Governance
+DCA: AutoDCA
+GND: GND Protocol
+GMUSD: gmUSD
+HAT: Joe Hat
+BTRFLY: Redacted Cartel [OLD]
+MCB: MUX Protocol
+IFARM: iFARM
+TIG: Tigris
+LEVI: LeverageInu
+YDF: Yieldification
+STRP: Strips Finance
+RBX: RabbitX
+EDE: El Dorado Exchange
+ARCHI: Archi Token
+DEG: Degis
+FLASH: Flashstake
+ANDY: ANDY ETH
+D2D: Prime
+PPT: Populous
+MUSIC: Music by Virtuals
+VADER: VaderAI by Virtuals
+TAOBOT: tao.bot
+MEDUSA: MEDUSA
+OISHII: Dog Food Token
+CATE: Cate on ETH
+TROG: Trog
+BAD: Bad Idea AI
+TYBG: Base God
+MILK: CashCow Protocol Milk
+GEAR: Gearbox
+CKP: Cakepie
+NIKO: NikolAI
+SOC: Socrates
+BUBBLE: Imaginary Ones
+BOT: Bounce [old]
+MFI: MetFi [OLD]
+NTGL: Entangle
+NGL: Gold Fever Native Gold
+FULLSEND: Fullsend Community Coin
+NEURON: Cerebrum DAO
+CRYO: CryoDAO
+DST: Double Swap Token
+imBTC: The Tokenized Bitcoin
+KEROSENE: Kerosene
+YFII: DFI.money
+VERSE: Verse
+SHX: Stronghold
+SFUND: Seedify.fund
+DOGECUBE: DogeCube
+PYM: Playermon
+HOPPY: Hoppy
+PENG: Peng
+SILLY: Silly Dragon
+SAMO: Samoyedcoin
+ETF500: Elon Trump Fart
+MARVIN: Marvin Inu
+$XCPHA: Phala (Moonbeam)
+SIREN: Siren
+CUMMIES: CumRocket
+CHAOS: chaos and disorder
+SAINT: Satoshi AI agent by Virtuals
+CTF: Crypto Trading Fund
+XFI: CrossFi
+WPCI: Wrapped Paycoin
+PORK: PepeFork
+FAR: FARCANA
+MONEY: Defi.money
+KILO: KiloEx
+BID: CreatorBid
+GAU: Gamer Arena
+KSHIB: Kilo Shiba Inu
+AIDOGE: ArbDoge AI
+DIP: Etherisc DIP
+PIRATE: Pirate Nation Token
+ZKF: ZKFair
+WOAS: Wrapped OAS
+CARDS: Cardstarter
+KOKO: KOALA AI
+ATS: Alltoscan
+APRS: Apeiron
+SAVAX: BENQI Liquid Staked AVAX
+MIMATIC: MAI
+STRDY: Sturdy
+MLG: 360noscope420blazeit
+DBR: deBridge
+WSSCR: Wrapped Staked SCR
+USDQ: Quantoz USDQ
+TERMINAL: Terminal
+IDRT: Rupiah Token
+POX: Monkey Pox
+APES: APES
+MUMU: MUMU THE BULL
+KATA: Katana Inu
+BR: Bedrock
+RIO: Realio Network Token
+DOOD: Doodles
+KIMA: Kima Network
