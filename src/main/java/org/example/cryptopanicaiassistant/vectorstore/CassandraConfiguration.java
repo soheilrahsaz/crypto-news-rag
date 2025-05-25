@@ -7,24 +7,24 @@ import org.example.cryptopanicaiassistant.embeddings.NormilizingEmbeddingModel;
 import org.springframework.ai.embedding.BatchingStrategy;
 import org.springframework.ai.embedding.EmbeddingModel;
 import org.springframework.ai.vectorstore.cassandra.CassandraVectorStore;
+import org.springframework.ai.vectorstore.filter.FilterExpressionConverter;
 import org.springframework.ai.vectorstore.observation.VectorStoreObservationConvention;
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.lang.reflect.Field;
 import java.util.List;
 
 @Configuration
 public class CassandraConfiguration {
-
 
     @Bean("vectorStore")
     public CassandraVectorStore simpleCassandraVectorStore(EmbeddingModel embeddingModel,
                                                            CqlSession cqlSession, ObjectProvider<ObservationRegistry> observationRegistry,
                                                            ObjectProvider<VectorStoreObservationConvention> customObservationConvention,
                                                            BatchingStrategy batchingStrategy) {
-
-        return CassandraVectorStore.builder(new NormilizingEmbeddingModel(embeddingModel))
+        CassandraVectorStore cassandraVectorStore = CassandraVectorStore.builder(new NormilizingEmbeddingModel(embeddingModel))
                 .session(cqlSession)
                 .keyspace("crypto_ai_assist")
                 .table("crypto_news")
@@ -44,5 +44,24 @@ public class CassandraConfiguration {
                 .observationRegistry(observationRegistry.getIfUnique(() -> ObservationRegistry.NOOP))
                 .customObservationConvention(customObservationConvention.getIfAvailable(() -> null))
                 .batchingStrategy(batchingStrategy).build();
+
+        overrideCassandraFilterExpressionConverter(cassandraVectorStore);
+        return cassandraVectorStore;
+    }
+
+    /**
+     * For using the index on currency, in cassandra we should use `CONTAINS` instead of `IN`
+     * Because Spring AI does not support `CONTAINS` yet, I had to override it this way
+     * This will not cause a problem for `IN` queries, because we are not using any!
+     */
+    private void overrideCassandraFilterExpressionConverter(CassandraVectorStore cassandraVectorStore){
+        try {
+            Field field = cassandraVectorStore.getClass().getDeclaredField("filterExpressionConverter");
+            field.setAccessible(true);
+            FilterExpressionConverter filterExpressionConverter = (FilterExpressionConverter)field.get(cassandraVectorStore);
+            field.set(cassandraVectorStore, (FilterExpressionConverter) expression -> filterExpressionConverter.convertExpression(expression).replace(" IN ", " CONTAINS "));
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 }

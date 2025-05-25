@@ -61,11 +61,11 @@ public class ModelCurrencyExtractor {
                 .call()
                 .content();
 
+        log.debug("Extracted currencies from user query: {}", response);
         if (!StringUtils.hasText(response) || "ALL".equals(response)) {
             return Collections.emptyList();
         }
 
-        log.debug("Extracted currencies from user query: {}", response);
         return Arrays.stream(response.split("\r\n|\r|\n")).map(String::trim).toList();
     }
 }

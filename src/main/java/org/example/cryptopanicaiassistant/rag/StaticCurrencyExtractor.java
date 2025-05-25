@@ -20,8 +20,8 @@ public class StaticCurrencyExtractor{
 
             for (String line : lines) {
                 String[] parts = line.split(":");
-                codes.add(parts[0].trim().toLowerCase());
-                nameCodeMap.put(parts[1].trim().toLowerCase(), parts[0].trim().toLowerCase());
+                codes.add(parts[0].trim().toUpperCase());
+                nameCodeMap.put(parts[1].trim().toUpperCase(), parts[0].trim().toUpperCase());
             }
 
             this.codes = Collections.unmodifiableSet(codes);
@@ -37,7 +37,7 @@ public class StaticCurrencyExtractor{
     public @NonNull List<String> getCurrencyCodes(@NonNull String userRawQuery) {
         Set<String> extracedCodes = new HashSet<>();
         for (String word : userRawQuery.split("\\s|\\.|,")) {
-            word = word.toLowerCase();
+            word = word.toUpperCase();
 
             if(codes.contains(word)) {
                 extracedCodes.add(word);
@@ -56,7 +56,7 @@ public class StaticCurrencyExtractor{
     public @NonNull List<String> convertToCodes(@NonNull List<String> currencies) {
         Set<String> extracedCodes = new HashSet<>();
         for (String word : currencies) {
-            word = word.toLowerCase();
+            word = word.toUpperCase();
 
             if(codes.contains(word)) {
                 extracedCodes.add(word);

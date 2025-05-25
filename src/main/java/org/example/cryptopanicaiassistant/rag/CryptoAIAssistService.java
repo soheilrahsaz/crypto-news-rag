@@ -15,7 +15,6 @@ import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 import java.time.ZoneOffset;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -51,13 +50,14 @@ public class CryptoAIAssistService {
         this.retrievalAugmentationAdvisor = RetrievalAugmentationAdvisor.builder()
                 .documentRetriever(VectorStoreDocumentRetriever.builder()
                         .vectorStore(vectorStore)
-                        .topK(5)
+                        .topK(10)
                         .similarityThreshold(0.7d)
                         .build())
                 .queryAugmenter(ContextualQueryAugmenter.builder()
                         .documentFormatter(this::documentFormatter)
                         .promptTemplate(new PromptTemplate(PROMPT_TEMPLATE))
                         .build())
+                .documentPostProcessors(new VoteScoreDocumentRanker(5))
                 .build();
         this.chatClient = ChatClient.builder(chatModel).build();
         this.modelDateRangeExtractor = ModelDateRangeExtractor.builder()
@@ -82,7 +82,7 @@ public class CryptoAIAssistService {
 
     public String ask(String userQuery) {
         ModelDateRangeExtractor.DateRange dateRange = modelDateRangeExtractor.extractDateRangeFromUserQuery(userQuery, LocalDate.now());
-        List<String> currencies = Collections.emptyList();// extractCurrenciesFromUserQuery(userQuery);
+        List<String> currencies = extractCurrenciesFromUserQuery(userQuery);
 
         return chatClient.prompt()
                 .user(userQuery)
@@ -102,6 +102,11 @@ public class CryptoAIAssistService {
         if (currencies.isEmpty()) {
             return dateRangeFilterExpression;
         }
+        //Cassandra does not support `CONTAINS` with multiple values, yet
+        if(currencies.size() > 1){
+            currencies = currencies.subList(0, 1);
+        }
+
         Filter.Expression currenciesFilterExpression = new Filter.Expression(Filter.ExpressionType.IN, new Filter.Key("currencies"), new Filter.Value(currencies));
 
         if(dateRange == null){
