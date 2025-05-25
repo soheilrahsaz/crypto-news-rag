@@ -15,7 +15,7 @@ public class SimpleDocumentMapperImpl implements DocumentMapper {
     public List<Document> from(RawNews rawNews) {
         return List.of(new Document(rawNews.getId() + "", rawNews.getDescription(),
                 Map.of("title", rawNews.getTitle(),
-                        "newsDatetime", rawNews.getNewsDatetime().toInstant(),
+                        "newsdatetime", rawNews.getNewsDatetime().toInstant(),
                         "votescore", rawNews.computeWeightedScore(1),
                         "urls", Stream.of(rawNews.getUrl(), rawNews.getSourceUrl()).filter(Objects::nonNull).toList(),
                         "currencies", rawNews.getCurrencies()
