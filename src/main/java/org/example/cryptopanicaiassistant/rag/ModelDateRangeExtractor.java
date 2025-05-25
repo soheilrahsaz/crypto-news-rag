@@ -22,7 +22,7 @@ public class ModelDateRangeExtractor {
     private final ChatClient chatClient;
     private final PromptTemplate promptTemplate = new PromptTemplate("""
             You are given a natural language query and the current date.
-            Your task is to extract the `start` and `end` dates implied in the query. If no specific date found, just return UNKNOWN
+            Your task is to extract the `start` and `end` dates implied in the query. If no specific date is implied, just return UNKNOWN
             Today is: {current_date}
             Current Year is: {current_year}
             
@@ -41,16 +41,23 @@ public class ModelDateRangeExtractor {
             Examples:
             
             What happened in the last 10 days?
-            2025-05-05
-            2025-05-15
+            {10_days_ago}
+            {current_date}
             
             What has happened since last week?
-            2025-05-08
-            2025-05-15
+            {last_week}
+            {current_date}
             
             What happened in March 2024?
             2024-03-01
             2024-03-31
+            
+            Tell me about x since February
+            {current_year}-02-01
+            {current_date}
+            
+            What is the affect of x on y?
+            UNKNOWN
             
             Now extract the date range:
             {query}
@@ -60,18 +67,20 @@ public class ModelDateRangeExtractor {
     public record DateRange(LocalDate startDate, LocalDate endDate) {
     }
 
-    public @NonNull DateRange extractDateRangeFromUserQuery(@NonNull String query, @NonNull LocalDate currentDate) {
+    public DateRange extractDateRangeFromUserQuery(@NonNull String query, @NonNull LocalDate currentDate) {
         return extractCurrenciesFromUserQuery(Query.builder()
                 .text(query)
                 .build(), currentDate);
     }
 
-    public @NonNull DateRange extractCurrenciesFromUserQuery(@NonNull Query query, @NonNull LocalDate currentDate) {
+    public DateRange extractCurrenciesFromUserQuery(@NonNull Query query, @NonNull LocalDate currentDate) {
         log.debug("Extracting date range from user query");
 
         String response = this.chatClient.prompt()
                 .user(user -> user.text(this.promptTemplate.getTemplate())
                         .param("query", query.text())
+                        .param("10_days_ago", currentDate.minusDays(10).format(dateTimeFormatter))
+                        .param("last_week", currentDate.minusWeeks(1).format(dateTimeFormatter))
                         .param("current_date", currentDate.format(dateTimeFormatter))
                         .param("current_year", currentDate.getYear())
                 )
@@ -85,6 +94,10 @@ public class ModelDateRangeExtractor {
             }
 
             log.debug("response for date range: {}", response);
+            if(response.contains("UNKNOWN")){
+                return null;
+            }
+
             List<String> dates = Arrays.stream(response.split("\r\n|\r|\n")).map(String::trim).toList();
             if(dates.size() <= 1){
                 throw new IllegalArgumentException("Invalid date range response: " + response);
