@@ -10,7 +10,6 @@ CREATE TABLE crypto_news
     currencies   LIST<TEXT>,
     embedding    VECTOR<FLOAT, 384>
 );
-//384
 
 CREATE CUSTOM INDEX crypto_news_embedding_vector_idx
     ON crypto_news (embedding)
