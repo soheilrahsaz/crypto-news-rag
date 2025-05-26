@@ -19,16 +19,15 @@ class VectorSearchTest {
 
 
     @Test
-    void testSearchSimple2() {
+    void testSearchWithFilter() {
         Filter.Expression datetimeGreaterThanExpression = new Filter.Expression(Filter.ExpressionType.GTE, new Filter.Key("newsdatetime"), new Filter.Value(Timestamp.valueOf("2024-03-03 00:00:00").toInstant()));
         Filter.Expression datetimeLessThanExpression = new Filter.Expression(Filter.ExpressionType.LTE, new Filter.Key("newsdatetime"), new Filter.Value(Timestamp.valueOf("2025-03-03 00:00:00").toInstant()));
         Filter.Group datetimeRangeExpression = new Filter.Group(new Filter.Expression(Filter.ExpressionType.AND, datetimeGreaterThanExpression, datetimeLessThanExpression));
-        Filter.Expression containsCurrencyExpression = new Filter.Expression(Filter.ExpressionType.IN, new Filter.Key("currencies"), new Filter.Value(List.of(List.of("BTC"))));
+        Filter.Expression containsCurrencyExpression = new Filter.Expression(Filter.ExpressionType.IN, new Filter.Key("currencies"), new Filter.Value(List.of("BTC")));
 
         List<Document> documents = vectorStore.similaritySearch(SearchRequest.builder()
-                .query("Trump's affect on crypto currency")
-//                .filterExpression(new Filter.Expression(Filter.ExpressionType.AND, containsCurrencyExpression, datetimeRangeExpression))
-                .filterExpression(containsCurrencyExpression)
+                .query("Trump's effect on crypto currency")
+                .filterExpression(new Filter.Expression(Filter.ExpressionType.AND, containsCurrencyExpression, datetimeRangeExpression))
                 .topK(5)
                 .build());
         for (Document document : documents) {
@@ -37,7 +36,7 @@ class VectorSearchTest {
     }
 
     @Test
-    void testSearchSimple() {
+    void testSearch() {
         List<Document> documents = vectorStore.similaritySearch(SearchRequest.builder()
                 .query("What is going on with bitcoin")
                 .topK(5)
