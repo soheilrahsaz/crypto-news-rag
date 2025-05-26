@@ -1,6 +1,6 @@
 package org.example.cryptopanicaiassistant;
 
-import org.example.cryptopanicaiassistant.embeddings.EmbeddingsCreator;
+import org.example.cryptopanicaiassistant.embeddings.NewsEmbeddingSaver;
 import org.example.cryptopanicaiassistant.newssource.mysql.RawNewsMySQLRepositoryImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,19 +11,19 @@ import java.util.List;
 @SpringBootTest
 class FillVectorDB {
     @Autowired
-    EmbeddingsCreator embeddingsCreator;
+    NewsEmbeddingSaver newsEmbeddingSaver;
 
     @Autowired
     RawNewsMySQLRepositoryImpl newsRepository;
 
     @Test
     void readAndStoreAll() {
-        embeddingsCreator.createAndSaveEmbeddings(newsRepository.findAll());
+        newsEmbeddingSaver.createAndSaveEmbeddings(newsRepository.findAll());
     }
 
     @Test
     void testStoreSingle() {
-        embeddingsCreator.createAndSaveEmbeddings(List.of(newsRepository.findById(882)));
+        newsEmbeddingSaver.createAndSaveEmbeddings(List.of(newsRepository.findById(882)));
     }
 
 }
