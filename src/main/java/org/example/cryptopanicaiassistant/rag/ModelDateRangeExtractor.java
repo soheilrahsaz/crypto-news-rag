@@ -56,7 +56,7 @@ public class ModelDateRangeExtractor {
             {current_year}-02-01
             {current_date}
             
-            What is the affect of x on y?
+            What is the effect of x on y?
             UNKNOWN
             
             Now extract the date range:
