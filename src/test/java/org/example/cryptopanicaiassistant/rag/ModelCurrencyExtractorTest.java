@@ -17,7 +17,7 @@ class ModelCurrencyExtractorTest {
     OllamaChatModel ollamaChatModel;
 
     @Test
-    void testExtractCurrencies() throws Exception {
+    void testExtractCurrencies() {
         ModelCurrencyExtractor modelCurrencyExtractor = ModelCurrencyExtractor.builder()
                 .chatClient(ChatClient.builder(ollamaChatModel).build())
                 .build();

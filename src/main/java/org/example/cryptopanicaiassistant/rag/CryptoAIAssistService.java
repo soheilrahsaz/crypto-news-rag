@@ -104,11 +104,13 @@ public class CryptoAIAssistService {
         if (currencies.isEmpty()) {
             return dateRangeFilterExpression;
         }
+
         //Cassandra does not support `CONTAINS` with multiple values, yet
         if(currencies.size() > 1){
             currencies = currencies.subList(0, 1);
         }
 
+        //Spring AI does not support `CONTAINS` yet, so we use `IN` operation and then replace it with contains,
         Filter.Expression currenciesFilterExpression = new Filter.Expression(Filter.ExpressionType.IN, new Filter.Key("currencies"), new Filter.Value(currencies));
 
         if(dateRange == null){

@@ -1,6 +1,6 @@
-package org.example.cryptopanicaiassistant.newssource;
+package org.example.cryptopanicaiassistant.newssource.mysql;
 
-import org.example.cryptopanicaiassistant.newssource.mysql.RawNewsMySQLRepositoryImpl;
+import org.example.cryptopanicaiassistant.newssource.RawNews;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
