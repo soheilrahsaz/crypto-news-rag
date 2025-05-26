@@ -13,7 +13,6 @@ class RagTest {
 
     @Test
     void testSimpleRag() {
-//        System.out.println(cryptoAIAssistService.ask("Trumps affect on bitcoin since january"));
-        System.out.println(cryptoAIAssistService.ask("Trumps affect on bitcoin since january 2025 until now"));
+        System.out.println(cryptoAIAssistService.ask("Trumps affect on bitcoin since january 2025"));
     }
 }

@@ -2,6 +2,7 @@ package org.example.cryptopanicaiassistant.rag;
 
 
 import lombok.NonNull;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.chat.prompt.PromptTemplate;
@@ -20,6 +21,7 @@ import java.util.stream.Collectors;
 
 
 @Service
+@Slf4j
 public class CryptoAIAssistService {
     private final RetrievalAugmentationAdvisor retrievalAugmentationAdvisor;
     private final ChatClient chatClient;
@@ -123,8 +125,10 @@ public class CryptoAIAssistService {
         List<String> modelExtracted = modelCurrencyExtractor.extractCurrenciesFromUserQuery(userQuery);
         List<String> refinedCodes = staticCurrencyExtractor.convertToCodes(modelExtracted);
         if (refinedCodes.isEmpty()) {
+            log.debug("no currencies found with model, using only static result");
             return staticCurrencyExtractor.getCurrencyCodes(userQuery);
         }
+        log.debug("extracted currency codes: {}", refinedCodes);
         return refinedCodes;
     }
 }

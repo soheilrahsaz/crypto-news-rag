@@ -1,3 +1,4 @@
+#the query to create RAG_news.csv file
 SELECT 'id',
        'title',
        'description',
