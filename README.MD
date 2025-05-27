@@ -1,5 +1,5 @@
 ## Crypto AI Assist RAG with Cassandra
-This repository contains a Retrieval-Augmented Generation (RAG) application built to showcase the integration of Spring AI and Apache Cassandra's Vector Search for querying cryptocurrency news using natural language. 
+This repository contains a Retrieval-Augmented Generation (RAG) application built to showcase the integration of **Spring AI** and **Apache Cassandra**'s Vector Search for querying cryptocurrency news using natural language. 
 The application retrieves relevant news articles based on user queries, leveraging embeddings for semantic search and Cassandra for scalable vector storage.
 For a detailed explanation of the project, including setup, architecture, and implementation, refer to the [Medium article](https://medium.com/@soheilrahsaz.sr/building-a-rag-application-with-crypto-news-apache-cassandra-and-spring-ai-6115ad5ca75e).
 
